@@ -1,0 +1,11 @@
+{
+ "merge-strings-alternately": {
+  "difficulty": "Easy",
+  "langName": "Python",
+  "num": 1768,
+  "path": "solutions/1768-merge-strings-alternately/merge-strings-alternately.py",
+  "slug": "merge-strings-alternately",
+  "solvedOn": "2025-09-09",
+  "title": "Merge Strings Alternately"
+ }
+}
