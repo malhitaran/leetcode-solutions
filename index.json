@@ -8,6 +8,15 @@
   "solvedOn": "2025-09-09",
   "title": "Greatest Common Divisor of Strings"
  },
+ "kids-with-the-greatest-number-of-candies": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 1431,
+  "path": "solutions/1431-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py",
+  "slug": "kids-with-the-greatest-number-of-candies",
+  "solvedOn": "2025-09-13",
+  "title": "Kids With the Greatest Number of Candies"
+ },
  "merge-strings-alternately": {
   "difficulty": "Easy",
   "langName": "Python",
