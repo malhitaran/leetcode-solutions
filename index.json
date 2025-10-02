@@ -25,5 +25,14 @@
   "slug": "merge-strings-alternately",
   "solvedOn": "2025-09-09",
   "title": "Merge Strings Alternately"
+ },
+ "reverse-vowels-of-a-string": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 345,
+  "path": "solutions/0345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.py",
+  "slug": "reverse-vowels-of-a-string",
+  "solvedOn": "2025-10-02",
+  "title": "Reverse Vowels of a String"
  }
 }
