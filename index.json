@@ -34,5 +34,14 @@
   "slug": "reverse-vowels-of-a-string",
   "solvedOn": "2025-10-02",
   "title": "Reverse Vowels of a String"
+ },
+ "reverse-words-in-a-string": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 151,
+  "path": "solutions/0151-reverse-words-in-a-string/reverse-words-in-a-string.py",
+  "slug": "reverse-words-in-a-string",
+  "solvedOn": "2025-10-25",
+  "title": "Reverse Words in a String"
  }
 }
