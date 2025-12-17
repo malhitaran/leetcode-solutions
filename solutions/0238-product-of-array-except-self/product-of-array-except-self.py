@@ -1,6 +1,6 @@
 # Product of Array Except Self (Medium)
 # https://leetcode.com/problems/product-of-array-except-self/
-# Accepted 2025-12-17 — Python3, runtime 21 ms, memory 23.2 MB
+# Accepted 2025-12-17 — Python3, runtime 15 ms, memory 23.3 MB
 from typing import List
 
 class Solution:
