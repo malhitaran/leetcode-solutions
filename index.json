@@ -26,6 +26,15 @@
   "solvedOn": "2025-09-09",
   "title": "Merge Strings Alternately"
  },
+ "product-of-array-except-self": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 238,
+  "path": "solutions/0238-product-of-array-except-self/product-of-array-except-self.py",
+  "slug": "product-of-array-except-self",
+  "solvedOn": "2025-12-17",
+  "title": "Product of Array Except Self"
+ },
  "reverse-vowels-of-a-string": {
   "difficulty": "Easy",
   "langName": "Python3",
