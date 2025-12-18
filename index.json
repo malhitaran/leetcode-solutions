@@ -8,6 +8,15 @@
   "solvedOn": "2025-09-09",
   "title": "Greatest Common Divisor of Strings"
  },
+ "increasing-triplet-subsequence": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 334,
+  "path": "solutions/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py",
+  "slug": "increasing-triplet-subsequence",
+  "solvedOn": "2025-12-18",
+  "title": "Increasing Triplet Subsequence"
+ },
  "kids-with-the-greatest-number-of-candies": {
   "difficulty": "Easy",
   "langName": "Python3",
