@@ -61,5 +61,14 @@
   "slug": "reverse-words-in-a-string",
   "solvedOn": "2025-10-25",
   "title": "Reverse Words in a String"
+ },
+ "string-compression": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 443,
+  "path": "solutions/0443-string-compression/string-compression.py",
+  "slug": "string-compression",
+  "solvedOn": "2026-02-05",
+  "title": "String Compression"
  }
 }
