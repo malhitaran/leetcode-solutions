@@ -1,6 +1,6 @@
 # String Compression (Medium)
 # https://leetcode.com/problems/string-compression/
-# Accepted 2026-02-05 — Python3, runtime 4 ms, memory 19.4 MB
+# Accepted 2026-02-05 — Python3, runtime 4 ms, memory 19.3 MB
 class Solution:
     def compress(self, chars: List[str]) -> int:
         newArray = []
