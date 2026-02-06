@@ -35,6 +35,15 @@
   "solvedOn": "2025-09-09",
   "title": "Merge Strings Alternately"
  },
+ "move-zeroes": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 283,
+  "path": "solutions/0283-move-zeroes/move-zeroes.py",
+  "slug": "move-zeroes",
+  "solvedOn": "2026-02-06",
+  "title": "Move Zeroes"
+ },
  "product-of-array-except-self": {
   "difficulty": "Medium",
   "langName": "Python3",

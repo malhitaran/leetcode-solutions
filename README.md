@@ -2,12 +2,13 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**8 solved** — 4 Easy, 4 Medium, 0 Hard
+**9 solved** — 5 Easy, 4 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Python3 | 2025-12-17 |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Python3 | 2026-02-06 |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | Python3 | 2025-12-18 |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Python3 | 2025-10-02 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
