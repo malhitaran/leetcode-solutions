@@ -17,6 +17,15 @@
   "solvedOn": "2025-12-18",
   "title": "Increasing Triplet Subsequence"
  },
+ "is-subsequence": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 392,
+  "path": "solutions/0392-is-subsequence/is-subsequence.py",
+  "slug": "is-subsequence",
+  "solvedOn": "2026-02-07",
+  "title": "Is Subsequence"
+ },
  "kids-with-the-greatest-number-of-candies": {
   "difficulty": "Easy",
   "langName": "Python3",
