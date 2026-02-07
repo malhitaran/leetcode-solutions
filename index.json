@@ -44,6 +44,15 @@
   "solvedOn": "2025-09-13",
   "title": "Kids With the Greatest Number of Candies"
  },
+ "max-number-of-k-sum-pairs": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 1679,
+  "path": "solutions/1679-max-number-of-k-sum-pairs/max-number-of-k-sum-pairs.py",
+  "slug": "max-number-of-k-sum-pairs",
+  "solvedOn": "2026-02-07",
+  "title": "Max Number of K-Sum Pairs"
+ },
  "merge-strings-alternately": {
   "difficulty": "Easy",
   "langName": "Python",
