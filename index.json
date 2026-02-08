@@ -62,6 +62,15 @@
   "solvedOn": "2026-02-08",
   "title": "Maximum Average Subarray I"
  },
+ "maximum-number-of-vowels-in-a-substring-of-given-length": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 1456,
+  "path": "solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.py",
+  "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+  "solvedOn": "2026-02-08",
+  "title": "Maximum Number of Vowels in a Substring of Given Length"
+ },
  "merge-strings-alternately": {
   "difficulty": "Easy",
   "langName": "Python",
