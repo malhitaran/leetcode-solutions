@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**12 solved** — 6 Easy, 6 Medium, 0 Hard
+**13 solved** — 7 Easy, 6 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -14,6 +14,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Python3 | 2025-10-02 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Python3 | 2026-02-07 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Python3 | 2025-09-09 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Python3 | 2025-09-13 |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | Python3 | 2026-02-07 |
