@@ -44,6 +44,15 @@
   "solvedOn": "2025-09-13",
   "title": "Kids With the Greatest Number of Candies"
  },
+ "max-consecutive-ones-iii": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 1004,
+  "path": "solutions/1004-max-consecutive-ones-iii/max-consecutive-ones-iii.py",
+  "slug": "max-consecutive-ones-iii",
+  "solvedOn": "2026-02-09",
+  "title": "Max Consecutive Ones III"
+ },
  "max-number-of-k-sum-pairs": {
   "difficulty": "Medium",
   "langName": "Python3",
