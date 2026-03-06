@@ -8,6 +8,15 @@
   "solvedOn": "2026-02-07",
   "title": "Container With Most Water"
  },
+ "find-the-highest-altitude": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 1732,
+  "path": "solutions/1732-find-the-highest-altitude/find-the-highest-altitude.py",
+  "slug": "find-the-highest-altitude",
+  "solvedOn": "2026-03-06",
+  "title": "Find the Highest Altitude"
+ },
  "greatest-common-divisor-of-strings": {
   "difficulty": "Easy",
   "langName": "Python3",
