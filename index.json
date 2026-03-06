@@ -8,6 +8,15 @@
   "solvedOn": "2026-02-07",
   "title": "Container With Most Water"
  },
+ "find-pivot-index": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 724,
+  "path": "solutions/0724-find-pivot-index/find-pivot-index.py",
+  "slug": "find-pivot-index",
+  "solvedOn": "2026-03-06",
+  "title": "Find Pivot Index"
+ },
  "find-the-highest-altitude": {
   "difficulty": "Easy",
   "langName": "Python3",

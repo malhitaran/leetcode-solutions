@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**17 solved** — 8 Easy, 9 Medium, 0 Hard
+**18 solved** — 9 Easy, 9 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -15,6 +15,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Python3 | 2026-02-07 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Python3 | 2026-02-09 |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Python3 | 2025-09-09 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Python3 | 2025-09-13 |
