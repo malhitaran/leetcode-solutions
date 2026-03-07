@@ -1,6 +1,6 @@
 # Determine if Two Strings Are Close (Medium)
 # https://leetcode.com/problems/determine-if-two-strings-are-close/
-# Accepted 2026-03-07 — Python3, runtime 94 ms, memory 20.4 MB
+# Accepted 2026-03-07 — Python3, runtime 95 ms, memory 20.4 MB
 from collections import Counter
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
@@ -23,4 +23,4 @@ class Solution:
         count1=Counter(word1)
         count2=Counter(word2)
 
-        return set(word1)==set(word2) and sorted(count1.values())==sorted(count2.values())
+        return set(word1)==set(word2) and Counter(count1.values())==Counter(count2.values())
