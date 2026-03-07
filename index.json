@@ -17,6 +17,15 @@
   "solvedOn": "2026-03-06",
   "title": "Find Pivot Index"
  },
+ "find-the-difference-of-two-arrays": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 2215,
+  "path": "solutions/2215-find-the-difference-of-two-arrays/find-the-difference-of-two-arrays.py",
+  "slug": "find-the-difference-of-two-arrays",
+  "solvedOn": "2026-03-07",
+  "title": "Find the Difference of Two Arrays"
+ },
  "find-the-highest-altitude": {
   "difficulty": "Easy",
   "langName": "Python3",
