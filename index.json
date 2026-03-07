@@ -8,6 +8,15 @@
   "solvedOn": "2026-02-07",
   "title": "Container With Most Water"
  },
+ "determine-if-two-strings-are-close": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 1657,
+  "path": "solutions/1657-determine-if-two-strings-are-close/determine-if-two-strings-are-close.py",
+  "slug": "determine-if-two-strings-are-close",
+  "solvedOn": "2026-03-07",
+  "title": "Determine if Two Strings Are Close"
+ },
  "find-pivot-index": {
   "difficulty": "Easy",
   "langName": "Python3",
