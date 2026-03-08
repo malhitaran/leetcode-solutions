@@ -1,6 +1,6 @@
 # Asteroid Collision (Medium)
 # https://leetcode.com/problems/asteroid-collision/
-# Accepted 2026-03-08 — Python3, runtime 8 ms, memory 20.4 MB
+# Accepted 2026-03-08 — Python3, runtime 3 ms, memory 20.5 MB
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
         stack=[]
