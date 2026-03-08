@@ -17,6 +17,15 @@
   "solvedOn": "2026-03-07",
   "title": "Determine if Two Strings Are Close"
  },
+ "equal-row-and-column-pairs": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 2352,
+  "path": "solutions/2352-equal-row-and-column-pairs/equal-row-and-column-pairs.py",
+  "slug": "equal-row-and-column-pairs",
+  "solvedOn": "2026-03-08",
+  "title": "Equal Row and Column Pairs"
+ },
  "find-pivot-index": {
   "difficulty": "Easy",
   "langName": "Python3",
