@@ -1,4 +1,13 @@
 {
+ "asteroid-collision": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 735,
+  "path": "solutions/0735-asteroid-collision/asteroid-collision.py",
+  "slug": "asteroid-collision",
+  "solvedOn": "2026-03-08",
+  "title": "Asteroid Collision"
+ },
  "container-with-most-water": {
   "difficulty": "Medium",
   "langName": "Python3",

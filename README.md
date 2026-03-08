@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**23 solved** — 11 Easy, 12 Medium, 0 Hard
+**24 solved** — 11 Easy, 13 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -16,6 +16,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Python3 | 2026-03-08 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Python3 | 2026-02-09 |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Python3 | 2025-09-09 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Python3 | 2026-03-07 |
