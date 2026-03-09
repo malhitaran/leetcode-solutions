@@ -1,34 +1,32 @@
 # Decode String (Medium)
 # https://leetcode.com/problems/decode-string/
-# Accepted 2026-03-09 — Python3, runtime 1 ms, memory 19.3 MB
+# Accepted 2026-03-09 — Python3, runtime 0 ms, memory 19.3 MB
 class Solution:
     def decodeString(self, s: str) -> str:
 
 
-        '''
+        num_stack = []
+        str_stack = []
+        curr_num = 0
+        curr_str = ""
 
-        we will put until a close bracket, then pop until a open bracket
-
-        
-        '''
-        stack=[]
         for char in s:
-            tempS=""
-            mul=""
-            if char!="]":
-                stack.append(char)
-            else: 
-                while stack[-1]!="[":
-                    tempS+=stack.pop()
-                tempS=tempS[::-1]
-                stack.pop()
-                while stack and stack[-1].isdigit():
-                    mul+=stack.pop()
-                mul=int(mul[::-1])
-                stack.extend(mul*tempS)
-                
+            if char.isdigit():
+                # build the number, e.g., "12[a]"
+                curr_num = curr_num * 10 + int(char)
+            elif char == '[':
+                # push current number and string onto stacks
+                num_stack.append(curr_num)
+                str_stack.append(curr_str)
+                curr_num = 0
+                curr_str = ""
+            elif char == ']':
+                # pop number and previous string, repeat current string
+                repeat_times = num_stack.pop()
+                prev_str = str_stack.pop()
+                curr_str = prev_str + curr_str * repeat_times
+            else:
+                # regular character, append
+                curr_str += char
 
-                    
-        
-
-        return ''.join(stack)
+        return curr_str
