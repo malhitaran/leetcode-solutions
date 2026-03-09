@@ -170,6 +170,15 @@
   "solvedOn": "2026-02-06",
   "title": "Move Zeroes"
  },
+ "number-of-recent-calls": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 933,
+  "path": "solutions/0933-number-of-recent-calls/number-of-recent-calls.py",
+  "slug": "number-of-recent-calls",
+  "solvedOn": "2026-03-09",
+  "title": "Number of Recent Calls"
+ },
  "product-of-array-except-self": {
   "difficulty": "Medium",
   "langName": "Python3",
