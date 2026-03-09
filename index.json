@@ -35,6 +35,15 @@
   "solvedOn": "2026-03-07",
   "title": "Determine if Two Strings Are Close"
  },
+ "dota2-senate": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 649,
+  "path": "solutions/0649-dota2-senate/dota2-senate.py",
+  "slug": "dota2-senate",
+  "solvedOn": "2026-03-09",
+  "title": "Dota2 Senate"
+ },
  "equal-row-and-column-pairs": {
   "difficulty": "Medium",
   "langName": "Python3",

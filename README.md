@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**26 solved** — 12 Easy, 14 Medium, 0 Hard
+**27 solved** — 12 Easy, 15 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -16,6 +16,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Python3 | 2026-03-08 |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Python3 | 2026-03-09 |
