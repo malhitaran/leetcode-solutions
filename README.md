@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**24 solved** — 11 Easy, 13 Medium, 0 Hard
+**25 solved** — 11 Easy, 14 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -13,6 +13,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | Python3 | 2025-12-18 |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Python3 | 2025-10-02 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Python3 | 2026-02-07 |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |

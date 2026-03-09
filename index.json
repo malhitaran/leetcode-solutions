@@ -17,6 +17,15 @@
   "solvedOn": "2026-02-07",
   "title": "Container With Most Water"
  },
+ "decode-string": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 394,
+  "path": "solutions/0394-decode-string/decode-string.py",
+  "slug": "decode-string",
+  "solvedOn": "2026-03-09",
+  "title": "Decode String"
+ },
  "determine-if-two-strings-are-close": {
   "difficulty": "Medium",
   "langName": "Python3",
