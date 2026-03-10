@@ -224,6 +224,15 @@
   "solvedOn": "2026-03-08",
   "title": "Removing Stars From a String"
  },
+ "reverse-linked-list": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 206,
+  "path": "solutions/0206-reverse-linked-list/reverse-linked-list.py",
+  "slug": "reverse-linked-list",
+  "solvedOn": "2026-03-10",
+  "title": "Reverse Linked List"
+ },
  "reverse-vowels-of-a-string": {
   "difficulty": "Easy",
   "langName": "Python3",
