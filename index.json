@@ -26,6 +26,15 @@
   "solvedOn": "2026-03-09",
   "title": "Decode String"
  },
+ "delete-the-middle-node-of-a-linked-list": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 2095,
+  "path": "solutions/2095-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py",
+  "slug": "delete-the-middle-node-of-a-linked-list",
+  "solvedOn": "2026-03-10",
+  "title": "Delete the Middle Node of a Linked List"
+ },
  "determine-if-two-strings-are-close": {
   "difficulty": "Medium",
   "langName": "Python3",
