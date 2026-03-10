@@ -197,6 +197,15 @@
   "solvedOn": "2026-03-09",
   "title": "Number of Recent Calls"
  },
+ "odd-even-linked-list": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 328,
+  "path": "solutions/0328-odd-even-linked-list/odd-even-linked-list.py",
+  "slug": "odd-even-linked-list",
+  "solvedOn": "2026-03-10",
+  "title": "Odd Even Linked List"
+ },
  "product-of-array-except-self": {
   "difficulty": "Medium",
   "langName": "Python3",
