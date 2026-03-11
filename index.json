@@ -161,6 +161,15 @@
   "solvedOn": "2026-02-08",
   "title": "Maximum Average Subarray I"
  },
+ "maximum-depth-of-binary-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 104,
+  "path": "solutions/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py",
+  "slug": "maximum-depth-of-binary-tree",
+  "solvedOn": "2026-03-11",
+  "title": "Maximum Depth of Binary Tree"
+ },
  "maximum-number-of-vowels-in-a-substring-of-given-length": {
   "difficulty": "Medium",
   "langName": "Python3",
