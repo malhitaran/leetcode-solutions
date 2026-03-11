@@ -170,6 +170,15 @@
   "solvedOn": "2026-02-08",
   "title": "Maximum Number of Vowels in a Substring of Given Length"
  },
+ "maximum-twin-sum-of-a-linked-list": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 2130,
+  "path": "solutions/2130-maximum-twin-sum-of-a-linked-list/maximum-twin-sum-of-a-linked-list.py",
+  "slug": "maximum-twin-sum-of-a-linked-list",
+  "solvedOn": "2026-03-11",
+  "title": "Maximum Twin Sum of a Linked List"
+ },
  "merge-strings-alternately": {
   "difficulty": "Easy",
   "langName": "Python",
