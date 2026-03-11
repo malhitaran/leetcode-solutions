@@ -1,6 +1,6 @@
 # Maximum Twin Sum of a Linked List (Medium)
 # https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
-# Accepted 2026-03-11 — Python3, runtime 69 ms, memory 63.2 MB
+# Accepted 2026-03-11 — Python3, runtime 62 ms, memory 50.7 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -9,27 +9,32 @@
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
 
-        if not head:
-            return head
-    
-        '''
-        use stack
-        push all elements to stack
-        then compare top elemetn and current start element if its max
-        '''
-        curr = head
-        stack = []
-
+        # Step 1: find middle
+        slow = head
+        fast = head
+        
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        
+        # Step 2: reverse second half
+        prev = None
+        curr = slow
+        
         while curr:
-            stack.append(curr)
-            curr = curr.next
-
-        curr = head
-        maxS = 0
-
-        while stack:
-            twin = stack.pop()
-            maxS = max(maxS, curr.val + twin.val)
-            curr = curr.next
-
-        return maxS
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+        
+        # Step 3: compute twin sums
+        max_sum = 0
+        first = head
+        second = prev
+        
+        while second:
+            max_sum = max(max_sum, first.val + second.val)
+            first = first.next
+            second = second.next
+        
+        return max_sum
