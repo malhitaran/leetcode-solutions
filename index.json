@@ -125,6 +125,15 @@
   "solvedOn": "2025-09-13",
   "title": "Kids With the Greatest Number of Candies"
  },
+ "leaf-similar-trees": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 872,
+  "path": "solutions/0872-leaf-similar-trees/leaf-similar-trees.py",
+  "slug": "leaf-similar-trees",
+  "solvedOn": "2026-03-11",
+  "title": "Leaf-Similar Trees"
+ },
  "longest-subarray-of-1s-after-deleting-one-element": {
   "difficulty": "Medium",
   "langName": "Python3",

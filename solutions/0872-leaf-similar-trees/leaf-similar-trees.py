@@ -1,0 +1,26 @@
+# Leaf-Similar Trees (Easy)
+# https://leetcode.com/problems/leaf-similar-trees/
+# Accepted 2026-03-11 — Python3, runtime 0 ms, memory 19.3 MB
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
+
+        def getLeaves(node, leaves):
+            if not node:
+                return
+            if not node.left and not node.right:
+                leaves.append(node.val)
+            getLeaves(node.left, leaves)
+            getLeaves(node.right, leaves)
+        
+        leaves1 = []
+        leaves2 = []
+        getLeaves(root1, leaves1)
+        getLeaves(root2, leaves2)
+        
+        return leaves1 == leaves2
