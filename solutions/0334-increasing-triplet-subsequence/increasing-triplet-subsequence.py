@@ -1,19 +1,19 @@
 # Increasing Triplet Subsequence (Medium)
 # https://leetcode.com/problems/increasing-triplet-subsequence/
-# Accepted 2025-12-18 — Python3, runtime 15 ms, memory 36.9 MB
+# Accepted 2026-04-26 — Python3, runtime 11 ms, memory 38.8 MB
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        from typing import List
         
-        first = float('inf')
-        second = float('inf')
-
-        for x in nums:
-            if x <= first:
-                first = x          # best (smallest) first element so far
-            elif x <= second:
-                second = x         # best second element > first so far
+        first=float('inf')
+        second=float('inf')
+        
+        for num in nums:
+            if num <=first:
+                first=num
+            elif num<=second:
+                second=num
             else:
-                return True        # found x > second > first
+
+                return True
 
         return False
