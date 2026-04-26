@@ -1,20 +1,23 @@
 # Merge Strings Alternately (Easy)
 # https://leetcode.com/problems/merge-strings-alternately/
-# Accepted 2025-09-09 — Python, runtime 14 ms, memory 12.6 MB
-class Solution(object):
-    def mergeAlternately(self, word1, word2):
-        """
-        :type word1: str
-        :type word2: str
-        :rtype: str
-        """
-        merged=""
-        i,j=0,0
-        while i<len(word1) or j<len(word2):
-            if i<len(word1):
-                merged+=word1[i]
-                i+=1
-            if j<len(word2):
-                merged+=word2[j]
-                j+=1
-        return merged
+# Accepted 2026-04-26 — Python3, runtime 47 ms, memory 19.1 MB
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+
+        if word1=="":
+            return word2
+
+        if word2=="":
+            return word1
+        
+        newStr=[]
+        for i in range(max(len(word1), len(word2))):
+            if i>len(word1)-1:
+                newStr.append(word2[i])
+            elif i>len(word2)-1:
+                newStr.append(word1[i])
+            else:
+                newStr.append(word1[i])
+                newStr.append(word2[i])
+
+        return ''.join(newStr)

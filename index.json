@@ -208,7 +208,7 @@
  },
  "merge-strings-alternately": {
   "difficulty": "Easy",
-  "langName": "Python",
+  "langName": "Python3",
   "num": 1768,
   "path": "solutions/1768-merge-strings-alternately/merge-strings-alternately.py",
   "slug": "merge-strings-alternately",
