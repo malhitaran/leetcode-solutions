@@ -8,6 +8,15 @@
   "solvedOn": "2026-03-08",
   "title": "Asteroid Collision"
  },
+ "can-place-flowers": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 605,
+  "path": "solutions/0605-can-place-flowers/can-place-flowers.py",
+  "slug": "can-place-flowers",
+  "solvedOn": "2026-04-26",
+  "title": "Can Place Flowers"
+ },
  "container-with-most-water": {
   "difficulty": "Medium",
   "langName": "Python3",

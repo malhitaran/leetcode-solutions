@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**34 solved** — 15 Easy, 19 Medium, 0 Hard
+**35 solved** — 16 Easy, 19 Medium, 0 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -18,6 +18,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Python3 | 2026-02-07 |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |
