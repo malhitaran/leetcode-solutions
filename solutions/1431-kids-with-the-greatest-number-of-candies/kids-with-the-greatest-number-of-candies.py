@@ -1,20 +1,16 @@
 # Kids With the Greatest Number of Candies (Easy)
 # https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-# Accepted 2025-09-13 — Python3, runtime 0 ms, memory 17.7 MB
+# Accepted 2026-04-26 — Python3, runtime 0 ms, memory 19.4 MB
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        boolArray=[]
 
-        max=0
-        #finding max candies currently
-        for i in candies:
-            if i>max:
-                max=i
+        maxCandy=max(candies)
 
-        for i in candies:
-            if i+extraCandies >= max:
-                boolArray.append(True)
+        boolL=[]
+        for candy in candies:
+            if candy+extraCandies>=maxCandy:
+                boolL.append(True)
             else:
-                boolArray.append(False)
+                boolL.append(False)
 
-        return boolArray
+        return boolL
