@@ -161,6 +161,15 @@
   "solvedOn": "2026-03-06",
   "title": "Longest Subarray of 1's After Deleting One Element"
  },
+ "longest-zigzag-path-in-a-binary-tree": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 1372,
+  "path": "solutions/1372-longest-zigzag-path-in-a-binary-tree/longest-zigzag-path-in-a-binary-tree.py",
+  "slug": "longest-zigzag-path-in-a-binary-tree",
+  "solvedOn": "2026-05-14",
+  "title": "Longest ZigZag Path in a Binary Tree"
+ },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
   "langName": "Python3",
