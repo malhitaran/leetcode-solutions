@@ -170,6 +170,15 @@
   "solvedOn": "2026-05-14",
   "title": "Longest ZigZag Path in a Binary Tree"
  },
+ "lowest-common-ancestor-of-a-binary-tree": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 236,
+  "path": "solutions/0236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py",
+  "slug": "lowest-common-ancestor-of-a-binary-tree",
+  "solvedOn": "2026-05-14",
+  "title": "Lowest Common Ancestor of a Binary Tree"
+ },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
   "langName": "Python3",
