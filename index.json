@@ -251,6 +251,15 @@
   "solvedOn": "2026-03-10",
   "title": "Odd Even Linked List"
  },
+ "path-sum-iii": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 437,
+  "path": "solutions/0437-path-sum-iii/path-sum-iii.py",
+  "slug": "path-sum-iii",
+  "solvedOn": "2026-05-14",
+  "title": "Path Sum III"
+ },
  "product-of-array-except-self": {
   "difficulty": "Medium",
   "langName": "Python3",
