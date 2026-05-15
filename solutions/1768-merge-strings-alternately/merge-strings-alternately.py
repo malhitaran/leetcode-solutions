@@ -1,18 +1,17 @@
 # Merge Strings Alternately (Easy)
 # https://leetcode.com/problems/merge-strings-alternately/
-# Accepted 2026-04-26 — Python3, runtime 42 ms, memory 19.3 MB
+# Accepted 2026-05-15 — Python3, runtime 48 ms, memory 19.1 MB
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
 
-        
-        newStr=""
-        for i in range(max(len(word1), len(word2))):
-            if i>len(word1)-1:
-                newStr+=word2[i]
-            elif i>len(word2)-1:
-                newStr+=word1[i]
-            else:
-                newStr+=word1[i]
-                newStr+=word2[i]
+        n=min(len(word1), len(word2))
 
-        return newStr
+        res=[]
+        for i in range(n):
+            res.append(word1[i])
+            res.append(word2[i])
+
+        res.append(word1[n:])
+        res.append(word2[n:])
+    
+        return ''.join(res)
