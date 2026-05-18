@@ -1,6 +1,6 @@
 # Maximum Average Subarray I (Easy)
 # https://leetcode.com/problems/maximum-average-subarray-i/
-# Accepted 2026-05-18 — Python3, runtime 55 ms, memory 29.1 MB
+# Accepted 2026-05-18 — Python3, runtime 53 ms, memory 28.9 MB
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         
