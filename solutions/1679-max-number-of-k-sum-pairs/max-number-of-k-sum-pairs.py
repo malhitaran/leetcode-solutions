@@ -1,35 +1,25 @@
 # Max Number of K-Sum Pairs (Medium)
 # https://leetcode.com/problems/max-number-of-k-sum-pairs/
-# Accepted 2026-05-18 — Python3, runtime 456 ms, memory 31.4 MB
+# Accepted 2026-05-18 — Python3, runtime 472 ms, memory 32.4 MB
+
+from collections import defaultdict
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
         
         '''
 
-        [1,2,3,4]
-
-        3 cases
-        front and back equal both move in
-        front and back is less move the less back/foward
-        opposite of above
+        using dict
         '''
 
-        [1,3,3,3,4]
-
-
-        front=0
-        back=len(nums)-1
+        collect=defaultdict(int)
         ops=0
+        
+        for num in nums:
+            need=k-num
 
-        nums.sort()
-        while front<back:
-            if nums[front]+nums[back]==k:
+            if collect[need]>0:
                 ops+=1
-                back-=1
-                front+=1
-            elif nums[front]+nums[back]<k:
-                front+=1
-            elif nums[front]+nums[back]>k:
-                back-=1
-            
+                collect[need]-=1
+            else:
+                collect[num]+=1
         return ops
