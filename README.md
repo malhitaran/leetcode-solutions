@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**42 solved** — 16 Easy, 25 Medium, 1 Hard
+**43 solved** — 17 Easy, 25 Medium, 1 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -12,6 +12,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | Python3 | 2026-06-11 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Python3 | 2026-05-14 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Python3 | 2025-12-17 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Python3 | 2026-02-06 |

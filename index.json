@@ -35,6 +35,15 @@
   "solvedOn": "2026-02-07",
   "title": "Container With Most Water"
  },
+ "contains-duplicate": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 217,
+  "path": "solutions/0217-contains-duplicate/contains-duplicate.py",
+  "slug": "contains-duplicate",
+  "solvedOn": "2026-06-12",
+  "title": "Contains Duplicate"
+ },
  "count-good-nodes-in-binary-tree": {
   "difficulty": "Medium",
   "langName": "Python3",
