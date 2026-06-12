@@ -1,6 +1,6 @@
 # K Closest Points to Origin (Medium)
 # https://leetcode.com/problems/k-closest-points-to-origin/
-# Accepted 2026-06-12 — Python3, runtime 69 ms, memory 24.7 MB
+# Accepted 2026-06-12 — Python3, runtime 19 ms, memory 23.9 MB
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         
@@ -23,19 +23,8 @@ class Solution:
 
         output=sortedList.keys()
         '''
-        ourDict=dict()
-        x=0
-        for i in range(len(points)):
-            x=0
-            for j in range(len(points[i])):
-                x+=points[i][j]**2
-            ourDict[i]=x
-        
-        sortedDict=sorted(ourDict.items(), key=lambda x:x[1])
-        output=[]
-        for i in range(k):
-            output.append(points[sortedDict[i][0]])
+        points.sort(key=lambda x: x[0]**2 + x[1]**2)
         
 
         
-        return output
+        return points[:k]
