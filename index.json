@@ -385,5 +385,14 @@
   "slug": "unique-number-of-occurrences",
   "solvedOn": "2026-03-07",
   "title": "Unique Number of Occurrences"
+ },
+ "valid-anagram": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 242,
+  "path": "solutions/0242-valid-anagram/valid-anagram.py",
+  "slug": "valid-anagram",
+  "solvedOn": "2026-06-12",
+  "title": "Valid Anagram"
  }
 }

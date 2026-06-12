@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**43 solved** — 17 Easy, 25 Medium, 1 Hard
+**44 solved** — 18 Easy, 25 Medium, 1 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -15,6 +15,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Python3 | 2026-05-14 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Python3 | 2025-12-17 |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Python3 | 2026-06-12 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Python3 | 2026-02-06 |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Python3 | 2026-03-10 |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | Python3 | 2025-12-18 |
