@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**41 solved** — 16 Easy, 24 Medium, 1 Hard
+**42 solved** — 16 Easy, 25 Medium, 1 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -29,6 +29,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Python3 | 2026-03-08 |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | Python3 | 2026-03-11 |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Python3 | 2026-03-09 |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | Python3 | 2026-06-12 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Python3 | 2026-02-09 |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Python3 | 2025-09-09 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Python3 | 2026-03-07 |

@@ -143,6 +143,15 @@
   "solvedOn": "2026-02-07",
   "title": "Is Subsequence"
  },
+ "k-closest-points-to-origin": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 973,
+  "path": "solutions/0973-k-closest-points-to-origin/k-closest-points-to-origin.py",
+  "slug": "k-closest-points-to-origin",
+  "solvedOn": "2026-06-12",
+  "title": "K Closest Points to Origin"
+ },
  "kids-with-the-greatest-number-of-candies": {
   "difficulty": "Easy",
   "langName": "Python3",
