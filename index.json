@@ -377,6 +377,15 @@
   "solvedOn": "2026-02-05",
   "title": "String Compression"
  },
+ "two-sum": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 1,
+  "path": "solutions/0001-two-sum/two-sum.py",
+  "slug": "two-sum",
+  "solvedOn": "2026-06-12",
+  "title": "Two Sum"
+ },
  "unique-number-of-occurrences": {
   "difficulty": "Easy",
   "langName": "Python3",
