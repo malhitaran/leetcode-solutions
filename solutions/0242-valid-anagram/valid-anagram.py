@@ -1,20 +1,20 @@
 # Valid Anagram (Easy)
 # https://leetcode.com/problems/valid-anagram/
-# Accepted 2026-06-12 — Python3, runtime 11 ms, memory 19.5 MB
+# Accepted 2026-06-12 — Python3, runtime 7 ms, memory 19.9 MB
+from collections import Counter
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s)!=len(t):
             return False
         
-        counts1={}
+        
+        counts1=list(s)
 
-        for char in s:
-            counts1[char]=counts1.get(char, 0)+1
+        counts1=Counter(counts1)
 
+        counts2=list(t)
 
-        counts2={}
-
-        for char in t:
-            counts2[char]=counts2.get(char, 0)+1
-            
+        counts2=Counter(counts2)
+        
         return counts2==counts1
