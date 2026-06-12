@@ -260,6 +260,15 @@
   "solvedOn": "2025-09-09",
   "title": "Merge Strings Alternately"
  },
+ "minimum-window-substring": {
+  "difficulty": "Hard",
+  "langName": "Python3",
+  "num": 76,
+  "path": "solutions/0076-minimum-window-substring/minimum-window-substring.py",
+  "slug": "minimum-window-substring",
+  "solvedOn": "2026-06-12",
+  "title": "Minimum Window Substring"
+ },
  "move-zeroes": {
   "difficulty": "Easy",
   "langName": "Python3",

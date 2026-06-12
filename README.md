@@ -2,11 +2,12 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**40 solved** — 16 Easy, 24 Medium, 0 Hard
+**41 solved** — 16 Easy, 24 Medium, 1 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Python3 | 2026-03-11 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | Python3 | 2026-06-11 |
