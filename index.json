@@ -134,6 +134,15 @@
   "solvedOn": "2025-09-09",
   "title": "Greatest Common Divisor of Strings"
  },
+ "group-anagrams": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 49,
+  "path": "solutions/0049-group-anagrams/group-anagrams.py",
+  "slug": "group-anagrams",
+  "solvedOn": "2026-06-13",
+  "title": "Group Anagrams"
+ },
  "increasing-triplet-subsequence": {
   "difficulty": "Medium",
   "langName": "Python3",

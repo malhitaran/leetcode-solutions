@@ -2,12 +2,13 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**45 solved** — 19 Easy, 25 Medium, 1 Hard
+**46 solved** — 19 Easy, 26 Medium, 1 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python3 | 2026-06-12 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Python3 | 2026-03-11 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
