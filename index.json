@@ -386,6 +386,15 @@
   "solvedOn": "2026-02-05",
   "title": "String Compression"
  },
+ "top-k-frequent-elements": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 347,
+  "path": "solutions/0347-top-k-frequent-elements/top-k-frequent-elements.py",
+  "slug": "top-k-frequent-elements",
+  "solvedOn": "2026-06-13",
+  "title": "Top K Frequent Elements"
+ },
  "two-sum": {
   "difficulty": "Easy",
   "langName": "Python3",
