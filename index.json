@@ -421,5 +421,14 @@
   "slug": "valid-anagram",
   "solvedOn": "2026-06-12",
   "title": "Valid Anagram"
+ },
+ "valid-sudoku": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 36,
+  "path": "solutions/0036-valid-sudoku/valid-sudoku.py",
+  "slug": "valid-sudoku",
+  "solvedOn": "2026-06-14",
+  "title": "Valid Sudoku"
  }
 }
