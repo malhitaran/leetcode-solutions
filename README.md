@@ -2,12 +2,13 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**48 solved** — 19 Easy, 28 Medium, 1 Hard
+**49 solved** — 19 Easy, 29 Medium, 1 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python3 | 2026-06-12 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Python3 | 2026-06-14 |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Python3 | 2026-06-14 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
