@@ -440,6 +440,15 @@
   "solvedOn": "2026-06-12",
   "title": "Valid Anagram"
  },
+ "valid-parentheses": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 20,
+  "path": "solutions/0020-valid-parentheses/valid-parentheses.py",
+  "slug": "valid-parentheses",
+  "solvedOn": "2026-06-15",
+  "title": "Valid Parentheses"
+ },
  "valid-sudoku": {
   "difficulty": "Medium",
   "langName": "Python3",
