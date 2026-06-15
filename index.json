@@ -188,6 +188,15 @@
   "solvedOn": "2026-03-11",
   "title": "Leaf-Similar Trees"
  },
+ "longest-consecutive-sequence": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 128,
+  "path": "solutions/0128-longest-consecutive-sequence/longest-consecutive-sequence.py",
+  "slug": "longest-consecutive-sequence",
+  "solvedOn": "2026-06-15",
+  "title": "Longest Consecutive Sequence"
+ },
  "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit": {
   "difficulty": "Medium",
   "langName": "Python3",
