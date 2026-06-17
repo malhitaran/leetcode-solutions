@@ -53,6 +53,15 @@
   "solvedOn": "2026-03-16",
   "title": "Count Good Nodes in Binary Tree"
  },
+ "daily-temperatures": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 739,
+  "path": "solutions/0739-daily-temperatures/daily-temperatures.py",
+  "slug": "daily-temperatures",
+  "solvedOn": "2026-06-17",
+  "title": "Daily Temperatures"
+ },
  "decode-string": {
   "difficulty": "Medium",
   "langName": "Python3",
