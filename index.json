@@ -98,6 +98,15 @@
   "solvedOn": "2026-03-08",
   "title": "Equal Row and Column Pairs"
  },
+ "evaluate-reverse-polish-notation": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 150,
+  "path": "solutions/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py",
+  "slug": "evaluate-reverse-polish-notation",
+  "solvedOn": "2026-06-17",
+  "title": "Evaluate Reverse Polish Notation"
+ },
  "find-pivot-index": {
   "difficulty": "Easy",
   "langName": "Python3",
