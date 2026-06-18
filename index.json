@@ -431,6 +431,15 @@
   "solvedOn": "2026-06-13",
   "title": "Top K Frequent Elements"
  },
+ "trapping-rain-water": {
+  "difficulty": "Hard",
+  "langName": "Python3",
+  "num": 42,
+  "path": "solutions/0042-trapping-rain-water/trapping-rain-water.py",
+  "slug": "trapping-rain-water",
+  "solvedOn": "2026-06-18",
+  "title": "Trapping Rain Water"
+ },
  "two-sum": {
   "difficulty": "Easy",
   "langName": "Python3",
