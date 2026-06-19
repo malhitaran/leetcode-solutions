@@ -26,6 +26,15 @@
   "solvedOn": "2026-04-26",
   "title": "Can Place Flowers"
  },
+ "car-fleet": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 853,
+  "path": "solutions/0853-car-fleet/car-fleet.py",
+  "slug": "car-fleet",
+  "solvedOn": "2026-06-19",
+  "title": "Car Fleet"
+ },
  "container-with-most-water": {
   "difficulty": "Medium",
   "langName": "Python3",
