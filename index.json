@@ -485,6 +485,15 @@
   "solvedOn": "2026-06-12",
   "title": "Valid Anagram"
  },
+ "valid-palindrome": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 125,
+  "path": "solutions/0125-valid-palindrome/valid-palindrome.py",
+  "slug": "valid-palindrome",
+  "solvedOn": "2026-06-20",
+  "title": "Valid Palindrome"
+ },
  "valid-parentheses": {
   "difficulty": "Easy",
   "langName": "Python3",

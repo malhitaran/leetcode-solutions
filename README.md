@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**56 solved** — 20 Easy, 33 Medium, 3 Hard
+**57 solved** — 21 Easy, 33 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -16,6 +16,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Python3 | 2026-06-20 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Python3 | 2026-03-11 |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Python3 | 2026-06-20 |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python3 | 2026-06-15 |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Python3 | 2026-06-17 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
