@@ -1,6 +1,6 @@
 # Two Sum II - Input Array Is Sorted (Medium)
 # https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-# Accepted 2026-06-20 — Python3, runtime 9 ms, memory 20.5 MB
+# Accepted 2026-06-20 — Python3, runtime 7 ms, memory 20.4 MB
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         
