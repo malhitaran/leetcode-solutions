@@ -206,6 +206,15 @@
   "solvedOn": "2025-09-13",
   "title": "Kids With the Greatest Number of Candies"
  },
+ "largest-rectangle-in-histogram": {
+  "difficulty": "Hard",
+  "langName": "Python3",
+  "num": 84,
+  "path": "solutions/0084-largest-rectangle-in-histogram/largest-rectangle-in-histogram.py",
+  "slug": "largest-rectangle-in-histogram",
+  "solvedOn": "2026-06-20",
+  "title": "Largest Rectangle in Histogram"
+ },
  "leaf-similar-trees": {
   "difficulty": "Easy",
   "langName": "Python3",
