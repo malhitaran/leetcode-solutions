@@ -467,6 +467,15 @@
   "solvedOn": "2026-06-12",
   "title": "Two Sum"
  },
+ "two-sum-ii-input-array-is-sorted": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 167,
+  "path": "solutions/0167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py",
+  "slug": "two-sum-ii-input-array-is-sorted",
+  "solvedOn": "2026-06-20",
+  "title": "Two Sum II - Input Array Is Sorted"
+ },
  "unique-number-of-occurrences": {
   "difficulty": "Easy",
   "langName": "Python3",
