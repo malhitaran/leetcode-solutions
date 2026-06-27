@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**58 solved** — 21 Easy, 34 Medium, 3 Hard
+**59 solved** — 22 Easy, 34 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -39,6 +39,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Python3 | 2026-06-27 |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Python3 | 2026-03-08 |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Python3 | 2026-06-17 |
