@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**62 solved** — 22 Easy, 37 Medium, 3 Hard
+**63 solved** — 22 Easy, 38 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -10,6 +10,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Python3 | 2026-06-14 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python3 | 2026-06-15 |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Python3 | 2026-06-14 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Python3 | 2026-06-18 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
