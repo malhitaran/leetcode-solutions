@@ -134,6 +134,15 @@
   "solvedOn": "2026-06-17",
   "title": "Evaluate Reverse Polish Notation"
  },
+ "find-minimum-in-rotated-sorted-array": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 153,
+  "path": "solutions/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py",
+  "slug": "find-minimum-in-rotated-sorted-array",
+  "solvedOn": "2026-06-27",
+  "title": "Find Minimum in Rotated Sorted Array"
+ },
  "find-pivot-index": {
   "difficulty": "Easy",
   "langName": "Python3",
