@@ -440,6 +440,15 @@
   "solvedOn": "2025-10-25",
   "title": "Reverse Words in a String"
  },
+ "search-a-2d-matrix": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 74,
+  "path": "solutions/0074-search-a-2d-matrix/search-a-2d-matrix.py",
+  "slug": "search-a-2d-matrix",
+  "solvedOn": "2026-06-27",
+  "title": "Search a 2D Matrix"
+ },
  "string-compression": {
   "difficulty": "Medium",
   "langName": "Python3",
