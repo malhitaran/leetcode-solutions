@@ -287,6 +287,15 @@
   "solvedOn": "2026-03-06",
   "title": "Longest Subarray of 1's After Deleting One Element"
  },
+ "longest-substring-without-repeating-characters": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 3,
+  "path": "solutions/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py",
+  "slug": "longest-substring-without-repeating-characters",
+  "solvedOn": "2026-06-27",
+  "title": "Longest Substring Without Repeating Characters"
+ },
  "longest-zigzag-path-in-a-binary-tree": {
   "difficulty": "Medium",
   "langName": "Python3",
