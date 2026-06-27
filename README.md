@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**65 solved** — 23 Easy, 39 Medium, 3 Hard
+**66 solved** — 23 Easy, 40 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -39,6 +39,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Python3 | 2026-06-13 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Python3 | 2026-02-07 |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Python3 | 2026-06-27 |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Python3 | 2026-05-14 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
