@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**60 solved** — 22 Easy, 35 Medium, 3 Hard
+**61 solved** — 22 Easy, 36 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -46,6 +46,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Python3 | 2026-06-17 |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Python3 | 2026-06-19 |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | Python3 | 2026-03-11 |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Python3 | 2026-06-27 |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Python3 | 2026-03-09 |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | Python3 | 2026-06-12 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Python3 | 2026-02-09 |
