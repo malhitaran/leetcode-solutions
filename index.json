@@ -431,6 +431,15 @@
   "solvedOn": "2026-05-14",
   "title": "Path Sum III"
  },
+ "permutation-in-string": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 567,
+  "path": "solutions/0567-permutation-in-string/permutation-in-string.py",
+  "slug": "permutation-in-string",
+  "solvedOn": "2026-06-27",
+  "title": "Permutation in String"
+ },
  "product-of-array-except-self": {
   "difficulty": "Medium",
   "langName": "Python3",
