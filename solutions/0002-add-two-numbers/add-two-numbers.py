@@ -1,6 +1,6 @@
 # Add Two Numbers (Medium)
 # https://leetcode.com/problems/add-two-numbers/
-# Accepted 2026-06-28 — Python3, runtime 3 ms, memory 19.3 MB
+# Accepted 2026-06-28 — Python3, runtime 2 ms, memory 19.1 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -60,8 +60,8 @@ class Solution:
 
             if ourSum>=10:
                 #carry the first digit
-                curr.val=int(str(ourSum)[1])
-                carry=int(str(ourSum)[0])
+                curr.val=ourSum%10
+                carry=ourSum//10
                 
             else:
                 curr.val=ourSum
