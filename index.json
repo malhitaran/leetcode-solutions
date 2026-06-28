@@ -485,6 +485,15 @@
   "solvedOn": "2026-03-08",
   "title": "Removing Stars From a String"
  },
+ "reorder-list": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 143,
+  "path": "solutions/0143-reorder-list/reorder-list.py",
+  "slug": "reorder-list",
+  "solvedOn": "2026-06-28",
+  "title": "Reorder List"
+ },
  "reverse-linked-list": {
   "difficulty": "Easy",
   "langName": "Python3",
