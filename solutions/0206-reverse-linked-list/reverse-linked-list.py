@@ -1,6 +1,6 @@
 # Reverse Linked List (Easy)
 # https://leetcode.com/problems/reverse-linked-list/
-# Accepted 2026-03-10 — Python3, runtime 0 ms, memory 20.4 MB
+# Accepted 2026-06-28 — Python3, runtime 0 ms, memory 20.2 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -9,27 +9,24 @@
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         
-        if not head:
-            return None
+        '''
+        [1,2,3,4,5]
 
-        stack = []
-        curr = head
+        we go through one item at a time, save the next node, set it to the previous node
+        '''
 
-        # Push all nodes onto the stack
-        while curr:
-            stack.append(curr)
-            curr = curr.next
+        prev=None
+        curr=head
+        while curr!=None:
+       
+            temp=curr.next
+            
+            curr.next=prev
+            
+            prev=curr
+            
+            curr=temp
+           
 
-        # Pop the new head
-        new_head = stack.pop()
-        curr = new_head
-
-        # Rewire the rest
-        while stack:
-            curr.next = stack.pop()
-            curr = curr.next
-
-        # Terminate the list
-        curr.next = None
-
-        return new_head
+        
+        return prev
