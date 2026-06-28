@@ -260,6 +260,15 @@
   "solvedOn": "2026-03-11",
   "title": "Leaf-Similar Trees"
  },
+ "linked-list-cycle": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 141,
+  "path": "solutions/0141-linked-list-cycle/linked-list-cycle.py",
+  "slug": "linked-list-cycle",
+  "solvedOn": "2026-06-28",
+  "title": "Linked List Cycle"
+ },
  "longest-consecutive-sequence": {
   "difficulty": "Medium",
   "langName": "Python3",
