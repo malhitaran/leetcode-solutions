@@ -179,6 +179,15 @@
   "solvedOn": "2026-03-07",
   "title": "Find the Difference of Two Arrays"
  },
+ "find-the-duplicate-number": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 287,
+  "path": "solutions/0287-find-the-duplicate-number/find-the-duplicate-number.py",
+  "slug": "find-the-duplicate-number",
+  "solvedOn": "2026-06-28",
+  "title": "Find the Duplicate Number"
+ },
  "find-the-highest-altitude": {
   "difficulty": "Easy",
   "langName": "Python3",
