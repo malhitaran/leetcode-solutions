@@ -1,6 +1,6 @@
 # Add Two Numbers (Medium)
 # https://leetcode.com/problems/add-two-numbers/
-# Accepted 2026-06-28 — Python3, runtime 2 ms, memory 19.1 MB
+# Accepted 2026-06-28 — Python3, runtime 4 ms, memory 19.2 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -22,60 +22,20 @@ class Solution:
         8, 9, 9 9, 0, 0, 0, 1
         we need to do it from the bigger list
         '''
-
-        #find bigger list
-
-        curr1=l1
-        count1=0
-    
-        while curr1:
-            curr1=curr1.next
-            count1+=1
-
-        curr2=l2
-        count2=0
-        mark1=False
-    
-        while curr2:
-            curr2=curr2.next
-            count2+=1
-        
-        if count1>=count2:
-            curr=l1
-            other=l2
-            mark1=True
-        else:
-            curr=l2
-            other=l1
-
+        dummy=ListNode()
+        curr=dummy
         carry=0
-        prev=None
-        while curr:
-            if other!=None:
+        while l1 or l2 or carry:
+            v1=l1.val if l1 else 0
+            v2=l2.val if l2 else 0
 
-                ourSum=curr.val+other.val+carry
-                other = other.next
-            else:
-                ourSum=curr.val+carry
+            currSum=v1+v2+carry
+            carry=currSum //10
+            value=currSum%10
+            curr.next=ListNode(value)
 
-            if ourSum>=10:
-                #carry the first digit
-                curr.val=ourSum%10
-                carry=ourSum//10
-                
-            else:
-                curr.val=ourSum
-                carry=0
-            prev=curr
             curr=curr.next
-            
-        if carry>0:
-            prev.next=ListNode(val=carry, next=None)
-        return l1 if mark1 else l2
+            l1=l1.next if l1 else None
+            l2=l2.next if l2 else None
 
-        '''
-        curr=head
-
-        while curr:
-
-        '''
+        return dummy.next
