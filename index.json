@@ -125,6 +125,15 @@
   "solvedOn": "2026-03-07",
   "title": "Determine if Two Strings Are Close"
  },
+ "diameter-of-binary-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 543,
+  "path": "solutions/0543-diameter-of-binary-tree/diameter-of-binary-tree.py",
+  "slug": "diameter-of-binary-tree",
+  "solvedOn": "2026-06-30",
+  "title": "Diameter of Binary Tree"
+ },
  "dota2-senate": {
   "difficulty": "Medium",
   "langName": "Python3",

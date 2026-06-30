@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**73 solved** — 26 Easy, 44 Medium, 3 Hard
+**74 solved** — 27 Easy, 44 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -48,6 +48,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Python3 | 2026-06-27 |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Python3 | 2026-05-14 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Python3 | 2026-06-30 |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Python3 | 2026-06-27 |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
