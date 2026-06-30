@@ -224,6 +224,15 @@
   "solvedOn": "2025-12-18",
   "title": "Increasing Triplet Subsequence"
  },
+ "invert-binary-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 226,
+  "path": "solutions/0226-invert-binary-tree/invert-binary-tree.py",
+  "slug": "invert-binary-tree",
+  "solvedOn": "2026-06-30",
+  "title": "Invert Binary Tree"
+ },
  "is-subsequence": {
   "difficulty": "Easy",
   "langName": "Python3",
