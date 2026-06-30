@@ -566,6 +566,15 @@
   "solvedOn": "2025-10-25",
   "title": "Reverse Words in a String"
  },
+ "same-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 100,
+  "path": "solutions/0100-same-tree/same-tree.py",
+  "slug": "same-tree",
+  "solvedOn": "2026-06-30",
+  "title": "Same Tree"
+ },
  "search-a-2d-matrix": {
   "difficulty": "Medium",
   "langName": "Python3",
