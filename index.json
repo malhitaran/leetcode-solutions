@@ -17,6 +17,15 @@
   "solvedOn": "2026-03-08",
   "title": "Asteroid Collision"
  },
+ "balanced-binary-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 110,
+  "path": "solutions/0110-balanced-binary-tree/balanced-binary-tree.py",
+  "slug": "balanced-binary-tree",
+  "solvedOn": "2026-06-30",
+  "title": "Balanced Binary Tree"
+ },
  "best-time-to-buy-and-sell-stock": {
   "difficulty": "Easy",
   "langName": "Python3",
