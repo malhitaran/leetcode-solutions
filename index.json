@@ -368,6 +368,15 @@
   "solvedOn": "2026-05-14",
   "title": "Longest ZigZag Path in a Binary Tree"
  },
+ "lowest-common-ancestor-of-a-binary-search-tree": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 235,
+  "path": "solutions/0235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py",
+  "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+  "solvedOn": "2026-07-01",
+  "title": "Lowest Common Ancestor of a Binary Search Tree"
+ },
  "lowest-common-ancestor-of-a-binary-tree": {
   "difficulty": "Medium",
   "langName": "Python3",
