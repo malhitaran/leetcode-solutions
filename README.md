@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**76 solved** — 29 Easy, 44 Medium, 3 Hard
+**77 solved** — 30 Easy, 44 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -52,6 +52,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Python3 | 2026-02-05 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Python3 | 2026-06-30 |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Python3 | 2026-06-27 |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Python3 | 2026-07-01 |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |

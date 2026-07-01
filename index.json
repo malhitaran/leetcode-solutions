@@ -602,6 +602,15 @@
   "solvedOn": "2026-02-05",
   "title": "String Compression"
  },
+ "subtree-of-another-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 572,
+  "path": "solutions/0572-subtree-of-another-tree/subtree-of-another-tree.py",
+  "slug": "subtree-of-another-tree",
+  "solvedOn": "2026-07-01",
+  "title": "Subtree of Another Tree"
+ },
  "top-k-frequent-elements": {
   "difficulty": "Medium",
   "langName": "Python3",
