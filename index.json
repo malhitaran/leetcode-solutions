@@ -44,6 +44,15 @@
   "solvedOn": "2026-06-27",
   "title": "Binary Search"
  },
+ "binary-tree-level-order-traversal": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 102,
+  "path": "solutions/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.py",
+  "slug": "binary-tree-level-order-traversal",
+  "solvedOn": "2026-07-02",
+  "title": "Binary Tree Level Order Traversal"
+ },
  "binary-tree-right-side-view": {
   "difficulty": "Medium",
   "langName": "Python3",
