@@ -709,5 +709,14 @@
   "slug": "valid-sudoku",
   "solvedOn": "2026-06-14",
   "title": "Valid Sudoku"
+ },
+ "validate-binary-search-tree": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 98,
+  "path": "solutions/0098-validate-binary-search-tree/validate-binary-search-tree.py",
+  "slug": "validate-binary-search-tree",
+  "solvedOn": "2026-07-02",
+  "title": "Validate Binary Search Tree"
  }
 }
