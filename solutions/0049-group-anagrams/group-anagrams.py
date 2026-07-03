@@ -1,27 +1,20 @@
 # Group Anagrams (Medium)
 # https://leetcode.com/problems/group-anagrams/
-# Accepted 2026-06-13 — Python3, runtime 19 ms, memory 24.1 MB
+# Accepted 2026-07-03 — Python3, runtime 15 ms, memory 24 MB
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        
-        '''
-        "nat","tan"
 
-        we create a frequency dict
-        where the keys are the frequency
-        thne we put the strs as the values
-        '''
-        count= [0]* 26
-        ourDict=dict()
+
+        countList=defaultdict(list)#keys will be a list[a-z]:frequency
+
         for i in range(len(strs)):
-            count= [0]* 26
-            for j in range(len(strs[i])):
-                x=ord(strs[i][j])-ord('a')
-                count[x]+=1
-            count=tuple(count)
-            if count in ourDict:
-                ourDict[count].append(strs[i])
-            else:ourDict[count]=[strs[i]]
 
-        return list(ourDict.values())
+            count=[0]*26
+
+            for letter in strs[i]:
+                count[ord(letter)-ord('a')]+=1
+
+            countList[tuple(count)].append(strs[i])
+
+        return list(countList.values())
