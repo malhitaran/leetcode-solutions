@@ -1,35 +1,38 @@
 # Valid Parentheses (Easy)
 # https://leetcode.com/problems/valid-parentheses/
-# Accepted 2026-06-15 — Python3, runtime 0 ms, memory 19.3 MB
+# Accepted 2026-07-03 — Python3, runtime 0 ms, memory 19.2 MB
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        '''
-        we can use a dictionary for the corresponding value e.g. key { value }
-        we pop on teh stack whilst its ([{
-
-        if we encoutner a })] then we pop and see if it matches
-
-        if not fail
-        else true
 
         '''
+
+
+        '''
+
         stack=[]
-        ourDict = {
-            ")": "(",
-            "]": "[",
-            "}": "{"
+
+        bracketMapping={
+
+            ')':'(',
+            '}':'{',
+            ']':'['
         }
 
-        for char in s:
-            if char=="[" or char=="{" or char=="(":
-                stack.append(char)
-            elif (char=="]" or char=="}" or char==")" ) and stack:
-                if ourDict[char]!=stack.pop():
-                    return False
+        for bracket in s:
+
+            if bracket=="(" or bracket=="{" or bracket=="[":
+                stack.append(bracket)
             else:
-                return False
-                
-        if stack:
+                if stack:
+                    lastBracket=stack.pop()
+                else:
+                    return False
+
+                if bracketMapping[bracket]!=lastBracket:
+                    return False
+
+        if stack: 
             return False
-        return True
+        else:
+            return True
