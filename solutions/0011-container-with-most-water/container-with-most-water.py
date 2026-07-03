@@ -1,18 +1,21 @@
 # Container With Most Water (Medium)
 # https://leetcode.com/problems/container-with-most-water/
-# Accepted 2026-06-20 — Python3, runtime 59 ms, memory 29.7 MB
+# Accepted 2026-07-03 — Python3, runtime 57 ms, memory 29.5 MB
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         
-        start=0
-        end=len(height)-1
+        left,right = 0,len(height)-1
         best=0
-        while start<end:
-            w = end-start
-            h=min(height[end], height[start])
-            best=max(best, w*h)
-            if height[end]>height[start]:
-                start+=1
+        
+
+        while left<right:
+            width=right-left
+            ourHeight=min(height[left], height[right])
+            best=max(best, width*ourHeight)
+
+            if height[left]>height[right]:
+                right-=1
             else:
-                end-=1
+                left+=1
+
         return best
