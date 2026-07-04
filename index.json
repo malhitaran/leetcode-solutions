@@ -656,6 +656,15 @@
   "solvedOn": "2026-07-01",
   "title": "Subtree of Another Tree"
  },
+ "symmetric-tree": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 101,
+  "path": "solutions/0101-symmetric-tree/symmetric-tree.py",
+  "slug": "symmetric-tree",
+  "solvedOn": "2026-07-04",
+  "title": "Symmetric Tree"
+ },
  "top-k-frequent-elements": {
   "difficulty": "Medium",
   "langName": "Python3",
