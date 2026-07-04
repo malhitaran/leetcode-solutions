@@ -296,6 +296,15 @@
   "solvedOn": "2026-06-27",
   "title": "Koko Eating Bananas"
  },
+ "kth-largest-element-in-an-array": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 215,
+  "path": "solutions/0215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.py",
+  "slug": "kth-largest-element-in-an-array",
+  "solvedOn": "2026-07-04",
+  "title": "Kth Largest Element in an Array"
+ },
  "largest-rectangle-in-histogram": {
   "difficulty": "Hard",
   "langName": "Python3",

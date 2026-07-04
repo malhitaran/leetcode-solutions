@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**81 solved** — 30 Easy, 48 Medium, 3 Hard
+**82 solved** — 30 Easy, 49 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -37,6 +37,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Python3 | 2026-06-20 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | Python3 | 2026-06-11 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Python3 | 2026-07-04 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Python3 | 2026-06-30 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python3 | 2026-07-01 |
