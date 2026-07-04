@@ -224,6 +224,15 @@
   "solvedOn": "2026-03-06",
   "title": "Find the Highest Altitude"
  },
+ "flood-fill": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 733,
+  "path": "solutions/0733-flood-fill/flood-fill.py",
+  "slug": "flood-fill",
+  "solvedOn": "2026-07-04",
+  "title": "Flood Fill"
+ },
  "greatest-common-divisor-of-strings": {
   "difficulty": "Easy",
   "langName": "Python3",
