@@ -449,6 +449,15 @@
   "solvedOn": "2026-03-11",
   "title": "Maximum Twin Sum of a Linked List"
  },
+ "merge-intervals": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 56,
+  "path": "solutions/0056-merge-intervals/merge-intervals.py",
+  "slug": "merge-intervals",
+  "solvedOn": "2026-07-04",
+  "title": "Merge Intervals"
+ },
  "merge-strings-alternately": {
   "difficulty": "Easy",
   "langName": "Python3",
