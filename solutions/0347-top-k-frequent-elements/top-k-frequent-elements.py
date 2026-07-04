@@ -1,26 +1,23 @@
 # Top K Frequent Elements (Medium)
 # https://leetcode.com/problems/top-k-frequent-elements/
-# Accepted 2026-06-13 — Python3, runtime 1 ms, memory 22.7 MB
+# Accepted 2026-07-04 — Python3, runtime 7 ms, memory 22.9 MB
 from collections import Counter
-
+import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+
         
-        '''
-        count dict
-        order by count so the value(frequency)
-        then slice k output as a list extracitng keys
 
 
-        [1,1,1,2,2,3]
+        numFrequency=Counter(nums)
 
-        1:3
-        2:2
-        3:1
-        
-        '''
+        heap=[]
 
-        x=Counter(nums)
-        x=dict(sorted(x.items(), key=lambda x:x[1], reverse=True))
-        x=list(x.keys())
-        return x[:k]
+        for num, count in numFrequency.items():
+
+            heapq.heappush(heap, (count, num))
+
+            if len(heap)>k:
+                heapq.heappop(heap)
+
+        return [num for count, num in heap]
