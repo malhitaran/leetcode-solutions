@@ -341,6 +341,15 @@
   "solvedOn": "2026-03-11",
   "title": "Leaf-Similar Trees"
  },
+ "letter-combinations-of-a-phone-number": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 17,
+  "path": "solutions/0017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py",
+  "slug": "letter-combinations-of-a-phone-number",
+  "solvedOn": "2026-07-05",
+  "title": "Letter Combinations of a Phone Number"
+ },
  "linked-list-cycle": {
   "difficulty": "Easy",
   "langName": "Python3",
