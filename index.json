@@ -107,6 +107,15 @@
   "solvedOn": "2026-03-16",
   "title": "Count Good Nodes in Binary Tree"
  },
+ "course-schedule": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 207,
+  "path": "solutions/0207-course-schedule/course-schedule.py",
+  "slug": "course-schedule",
+  "solvedOn": "2026-07-05",
+  "title": "Course Schedule"
+ },
  "daily-temperatures": {
   "difficulty": "Medium",
   "langName": "Python3",
