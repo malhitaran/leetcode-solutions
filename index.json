@@ -242,6 +242,15 @@
   "solvedOn": "2026-07-04",
   "title": "Flood Fill"
  },
+ "generate-parentheses": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 22,
+  "path": "solutions/0022-generate-parentheses/generate-parentheses.py",
+  "slug": "generate-parentheses",
+  "solvedOn": "2026-07-05",
+  "title": "Generate Parentheses"
+ },
  "greatest-common-divisor-of-strings": {
   "difficulty": "Easy",
   "langName": "Python3",
