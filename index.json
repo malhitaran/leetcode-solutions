@@ -647,6 +647,15 @@
   "solvedOn": "2025-10-25",
   "title": "Reverse Words in a String"
  },
+ "rotting-oranges": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 994,
+  "path": "solutions/0994-rotting-oranges/rotting-oranges.py",
+  "slug": "rotting-oranges",
+  "solvedOn": "2026-07-07",
+  "title": "Rotting Oranges"
+ },
  "same-tree": {
   "difficulty": "Easy",
   "langName": "Python3",
