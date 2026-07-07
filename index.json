@@ -386,6 +386,15 @@
   "solvedOn": "2026-06-12",
   "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"
  },
+ "longest-palindromic-substring": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 5,
+  "path": "solutions/0005-longest-palindromic-substring/longest-palindromic-substring.py",
+  "slug": "longest-palindromic-substring",
+  "solvedOn": "2026-07-07",
+  "title": "Longest Palindromic Substring"
+ },
  "longest-repeating-character-replacement": {
   "difficulty": "Medium",
   "langName": "Python3",

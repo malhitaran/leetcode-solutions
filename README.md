@@ -2,13 +2,14 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**89 solved** — 32 Easy, 54 Medium, 3 Hard
+**90 solved** — 32 Easy, 55 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python3 | 2026-06-12 |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Python3 | 2026-06-28 |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Python3 | 2026-06-27 |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Python3 | 2026-07-07 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python3 | 2026-07-05 |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Python3 | 2026-06-14 |
