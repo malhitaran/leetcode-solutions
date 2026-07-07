@@ -701,6 +701,15 @@
   "solvedOn": "2026-02-05",
   "title": "String Compression"
  },
+ "subarray-sum-equals-k": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 560,
+  "path": "solutions/0560-subarray-sum-equals-k/subarray-sum-equals-k.py",
+  "slug": "subarray-sum-equals-k",
+  "solvedOn": "2026-07-07",
+  "title": "Subarray Sum Equals K"
+ },
  "subtree-of-another-tree": {
   "difficulty": "Easy",
   "langName": "Python3",
