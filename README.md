@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**91 solved** — 32 Easy, 56 Medium, 3 Hard
+**92 solved** — 32 Easy, 57 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -20,6 +20,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Python3 | 2026-06-14 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Python3 | 2026-06-18 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Python3 | 2026-07-08 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Python3 | 2026-07-04 |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Python3 | 2026-06-27 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |

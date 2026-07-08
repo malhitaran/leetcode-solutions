@@ -692,6 +692,15 @@
   "solvedOn": "2026-06-27",
   "title": "Search in Rotated Sorted Array"
  },
+ "spiral-matrix": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 54,
+  "path": "solutions/0054-spiral-matrix/spiral-matrix.py",
+  "slug": "spiral-matrix",
+  "solvedOn": "2026-07-08",
+  "title": "Spiral Matrix"
+ },
  "string-compression": {
   "difficulty": "Medium",
   "langName": "Python3",
