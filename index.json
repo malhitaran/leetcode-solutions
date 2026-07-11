@@ -737,6 +737,15 @@
   "solvedOn": "2026-07-04",
   "title": "Symmetric Tree"
  },
+ "task-scheduler": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 621,
+  "path": "solutions/0621-task-scheduler/task-scheduler.py",
+  "slug": "task-scheduler",
+  "solvedOn": "2026-07-11",
+  "title": "Task Scheduler"
+ },
  "top-k-frequent-elements": {
   "difficulty": "Medium",
   "langName": "Python3",

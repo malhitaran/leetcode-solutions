@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**92 solved** — 32 Easy, 57 Medium, 3 Hard
+**93 solved** — 32 Easy, 58 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -67,6 +67,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Python3 | 2026-06-27 |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Python3 | 2026-07-01 |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Python3 | 2026-07-11 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Python3 | 2026-06-27 |
