@@ -1,24 +1,18 @@
 # Can Place Flowers (Easy)
 # https://leetcode.com/problems/can-place-flowers/
-# Accepted 2026-05-16 — Python3, runtime 15 ms, memory 19.5 MB
+# Accepted 2026-07-29 — Python3, runtime 23 ms, memory 19.8 MB
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
 
-
-        '''
-
-        cleaner solution
-
-        '''
+        start=0
+        end=len(flowerbed)-1
         for i in range(len(flowerbed)):
-            left=(i==0)or(flowerbed[i-1]==0)
-            right=(i==len(flowerbed)-1)or(flowerbed[i+1]==0)
-
-            if flowerbed[i]==0 and left and right:
-                flowerbed[i]=1
-                n-=1
-
-                if n==0:
-                    return True
+            
+            #check left
+            if flowerbed[i]==0:
+                if (i==start or flowerbed[i-1]==0) and (i==end or flowerbed[i+1]==0):
+                    n-=1
+                    flowerbed[i]=1
+                print(n)
 
         return n<=0
