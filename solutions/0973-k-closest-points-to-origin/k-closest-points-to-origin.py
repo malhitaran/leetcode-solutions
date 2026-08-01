@@ -1,30 +1,27 @@
 # K Closest Points to Origin (Medium)
 # https://leetcode.com/problems/k-closest-points-to-origin/
-# Accepted 2026-06-12 — Python3, runtime 19 ms, memory 23.9 MB
+# Accepted 2026-08-01 — Python3, runtime 58 ms, memory 25.7 MB
+import heapq
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         
-
-        
         '''
 
-        [[1,3],[-2,2]]
+        for each of these coordinates, i can put it into a tuple then add the distance in the first part of teh tuple, then the coordinates
 
-        for all items find eculidian        n
-
-
-        store as index and eculidian value pair
-
-        sort that dictionary    nlogn
-
-        take k items of that and output
-
-        sortedList=sorted(ourDict.items(), key=lambda x:x[1])
-
-        output=sortedList.keys()
         '''
-        points.sort(key=lambda x: x[0]**2 + x[1]**2)
-        
 
+        heap=[]
+        res=[]
+        for x,y in points:
+            dis=x**2 + y**2
+            heap.append((dis, x, y))
+
+        heapq.heapify(heap)
         
-        return points[:k]
+        for i in range(k):
+            x=heapq.heappop(heap)
+            res.append([x[1],x[2]])
+
+
+        return res
