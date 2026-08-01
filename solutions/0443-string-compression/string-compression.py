@@ -1,25 +1,38 @@
 # String Compression (Medium)
 # https://leetcode.com/problems/string-compression/
-# Accepted 2026-02-05 — Python3, runtime 4 ms, memory 19.3 MB
+# Accepted 2026-08-01 — Python3, runtime 0 ms, memory 19.3 MB
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        newArray = []
-        count = 1
 
-        for i in range(len(chars) - 1):
-            if chars[i] != chars[i + 1]:
-                newArray.append(chars[i])
-                if count > 1:
-                    newArray.extend(list(str(count)))  # split digits
-                    count = 1
+        left=0
+        prev=''
+        count=0
+        
+        for i,char in enumerate(chars):
+
+            if i==0:
+                prev=char
+                count=int(count)+1
+            
+            elif char==prev:
+                count=int(count)+1
+               
             else:
-                count += 1
+                chars[left]=prev
+                prev=char
+                left+=1
+                if count>1:
+                    count=str(count)
+                    for i in range(len(count)):
+                        chars[left]=count[i]
+                        left+=1
+                count=int(1)
 
-        # flush the last group
-        newArray.append(chars[-1])
+        chars[left] = prev
+        left += 1
         if count > 1:
-            newArray.extend(list(str(count)))  # split digits
+            for digit in str(count):
+                chars[left] = digit
+                left += 1
 
-        # write back into chars
-        chars[:len(newArray)] = newArray
-        return len(newArray)
+        return left
