@@ -1,29 +1,34 @@
 # Move Zeroes (Easy)
 # https://leetcode.com/problems/move-zeroes/
-# Accepted 2026-05-18 — Python3, runtime 0 ms, memory 20.6 MB
+# Accepted 2026-08-03 — Python3, runtime 3 ms, memory 20.5 MB
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
 
 
+        so my right will find non numbers
+
+        so we can have a left pointer that finds a zero
+        right pointer that finds non zero
 
 
-
-
-        [0,1,0,3,12]
-
-
-        0    non 0.  swap
-        0.   0.   increment secondPointer
-        non 0.    0.   firstPointer=secondPointer
-        non 0.    non 0.   increment both
         """
-        
-        left=0
-        
+        l, r=0,0
 
-        for right in range(len(nums)):
-            if nums[right]!=0:
-                nums[left], nums[right]= nums[right], nums[left]
-                left+=1
+        while r<len(nums):
+
+            
+            if nums[r]!=0 and nums[l]==0 and l<r:
+                #swap
+                temp=nums[l]
+                nums[l]=nums[r]
+                nums[r]=temp
+                l+=1
+                r+=1
+            elif nums[r]==0:
+                r+=1
+            elif nums[l]!=0:
+                l+=1
+                r+=1
+        return nums
