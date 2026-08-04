@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**93 solved** — 32 Easy, 58 Medium, 3 Hard
+**94 solved** — 33 Easy, 58 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -94,6 +94,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | Python3 | 2026-02-07 |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Python3 | 2026-03-06 |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | Python3 | 2025-09-09 |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Python3 | 2026-08-04 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | Python3 | 2026-03-10 |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium | Python3 | 2026-03-11 |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Python3 | 2026-03-07 |

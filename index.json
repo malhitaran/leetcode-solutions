@@ -80,6 +80,15 @@
   "solvedOn": "2026-06-19",
   "title": "Car Fleet"
  },
+ "concatenation-of-array": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 1929,
+  "path": "solutions/1929-concatenation-of-array/concatenation-of-array.py",
+  "slug": "concatenation-of-array",
+  "solvedOn": "2026-08-04",
+  "title": "Concatenation of Array"
+ },
  "container-with-most-water": {
   "difficulty": "Medium",
   "langName": "Python3",
