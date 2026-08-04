@@ -719,6 +719,15 @@
   "solvedOn": "2026-06-27",
   "title": "Search in Rotated Sorted Array"
  },
+ "sort-colors": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 75,
+  "path": "solutions/0075-sort-colors/sort-colors.py",
+  "slug": "sort-colors",
+  "solvedOn": "2026-08-04",
+  "title": "Sort Colors"
+ },
  "spiral-matrix": {
   "difficulty": "Medium",
   "langName": "Python3",
