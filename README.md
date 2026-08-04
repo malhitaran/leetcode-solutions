@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**95 solved** — 34 Easy, 58 Medium, 3 Hard
+**96 solved** — 35 Easy, 58 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -41,6 +41,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Python3 | 2026-06-20 |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python3 | 2026-08-04 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | Python3 | 2026-06-11 |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python3 | 2026-07-04 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |

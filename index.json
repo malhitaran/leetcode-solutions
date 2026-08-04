@@ -467,6 +467,15 @@
   "solvedOn": "2026-05-14",
   "title": "Lowest Common Ancestor of a Binary Tree"
  },
+ "majority-element": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 169,
+  "path": "solutions/0169-majority-element/majority-element.py",
+  "slug": "majority-element",
+  "solvedOn": "2026-08-04",
+  "title": "Majority Element"
+ },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
   "langName": "Python3",
