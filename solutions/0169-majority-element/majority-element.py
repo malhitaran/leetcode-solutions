@@ -1,6 +1,6 @@
 # Majority Element (Easy)
 # https://leetcode.com/problems/majority-element/
-# Accepted 2026-08-04 — Python3, runtime 3 ms, memory 21.3 MB
+# Accepted 2026-08-04 — Python3, runtime 5 ms, memory 21.3 MB
 from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
