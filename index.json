@@ -377,6 +377,15 @@
   "solvedOn": "2026-06-28",
   "title": "Linked List Cycle"
  },
+ "longest-common-prefix": {
+  "difficulty": "Easy",
+  "langName": "Python3",
+  "num": 14,
+  "path": "solutions/0014-longest-common-prefix/longest-common-prefix.py",
+  "slug": "longest-common-prefix",
+  "solvedOn": "2026-08-04",
+  "title": "Longest Common Prefix"
+ },
  "longest-consecutive-sequence": {
   "difficulty": "Medium",
   "langName": "Python3",
