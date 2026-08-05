@@ -35,6 +35,15 @@
   "solvedOn": "2026-06-27",
   "title": "Best Time to Buy and Sell Stock"
  },
+ "best-time-to-buy-and-sell-stock-ii": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 122,
+  "path": "solutions/0122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py",
+  "slug": "best-time-to-buy-and-sell-stock-ii",
+  "solvedOn": "2026-08-05",
+  "title": "Best Time to Buy and Sell Stock II"
+ },
  "binary-search": {
   "difficulty": "Easy",
   "langName": "Python3",
