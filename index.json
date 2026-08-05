@@ -485,6 +485,15 @@
   "solvedOn": "2026-08-04",
   "title": "Majority Element"
  },
+ "majority-element-ii": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 229,
+  "path": "solutions/0229-majority-element-ii/majority-element-ii.py",
+  "slug": "majority-element-ii",
+  "solvedOn": "2026-08-05",
+  "title": "Majority Element II"
+ },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
   "langName": "Python3",

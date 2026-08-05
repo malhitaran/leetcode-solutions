@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**98 solved** — 35 Easy, 60 Medium, 3 Hard
+**99 solved** — 35 Easy, 61 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -51,6 +51,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Python3 | 2026-07-04 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Python3 | 2026-06-30 |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | Python3 | 2026-08-05 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python3 | 2026-07-01 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Python3 | 2026-05-14 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Python3 | 2025-12-17 |
