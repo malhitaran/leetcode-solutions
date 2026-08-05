@@ -1,14 +1,34 @@
 # Maximum Average Subarray I (Easy)
 # https://leetcode.com/problems/maximum-average-subarray-i/
-# Accepted 2026-05-18 — Python3, runtime 53 ms, memory 28.9 MB
+# Accepted 2026-08-05 — Python3, runtime 35 ms, memory 29.3 MB
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         
-        window_sum = sum(nums[:k])
-        best_sum = window_sum
+        '''
+
+
+        '''
+
+        if len(nums)<=k:
+            print(sum(nums))
+
+            return sum(nums)/k
+        else:
+            prev=sum(nums[:k])
+            best=prev
+            
+     
+        
 
         for i in range(k, len(nums)):
-            window_sum += nums[i] - nums[i - k]
-            best_sum = max(best_sum, window_sum)
 
-        return best_sum / k
+            
+            curr=prev-nums[i-k] + nums[i]
+            
+            if curr>best:
+                best=curr
+
+            prev=curr
+
+    
+        return float(best/k)
