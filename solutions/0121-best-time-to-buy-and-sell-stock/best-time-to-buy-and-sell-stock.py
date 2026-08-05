@@ -1,33 +1,24 @@
 # Best Time to Buy and Sell Stock (Easy)
 # https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-# Accepted 2026-06-27 — Python3, runtime 78 ms, memory 28.5 MB
+# Accepted 2026-08-05 — Python3, runtime 31 ms, memory 28.5 MB
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         
         '''
+        if its decreasing replace my low
 
-        [7,1,5,3,6,4]
+        if its increasing recalculate my best
 
-        [7,6,4,3,1]
 
-        if num is less than or equalour less
-            we move our left to right
-    
 
-        if num is greater than we calcualte new best and keep going
         '''
-
-        left=0
-        right=0
+        low=float('infinity')
         best=0
-        while right<len(prices):
-            
-            if prices[right]>prices[left]:
-                best=max(best, prices[right]-prices[left])
-            else:
-                left=right
+        for price in prices:
+            if price <low:
+                low=price
 
-            right+=1
-            
+            if price>low:
+                best=max(best, price-low)
 
         return best
