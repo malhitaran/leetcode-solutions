@@ -1,6 +1,6 @@
 # Maximum Number of Vowels in a Substring of Given Length (Medium)
 # https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
-# Accepted 2026-08-06 — Python3, runtime 126 ms, memory 20 MB
+# Accepted 2026-08-06 — Python3, runtime 83 ms, memory 19.8 MB
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
 
@@ -18,30 +18,16 @@ class Solution:
         vowels={'A','a','E','e','I','i','O','o','U','u'}
 
         
+        l, cnt, res=0,0,0
 
-        #process the first k
+        for r in range(len(s)):
 
-        out=0
-        for i in range(k):
-            if s[i] in vowels:
-                out+=1
-        best=out
-        
-        
-        for i in range(k, len(s)):
+            cnt+=1 if s[r] in vowels else 0
+
+            if r-l+1>k:
+                cnt-=1 if s[l] in vowels else 0
+                l+=1
             
-            
+            res=max(res, cnt)
 
-            if s[i] in vowels:
-                out+=1
-
-            if s[i-k] in vowels:
-                out-=1
-            
-            print(out)
-            if out>best:
-                best=out
-        
-        
-
-        return best
+        return res
