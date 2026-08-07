@@ -1,16 +1,22 @@
 # Equal Row and Column Pairs (Medium)
 # https://leetcode.com/problems/equal-row-and-column-pairs/
-# Accepted 2026-03-08 — Python3, runtime 24 ms, memory 24.5 MB
+# Accepted 2026-08-07 — Python3, runtime 18 ms, memory 24.8 MB
 from collections import Counter
 
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
-        n=len(grid)
-        count1=Counter(tuple(row) for row in grid)
-        ans=0
+        rows = len(grid)
+        cols = len(grid[0])
+        row_freq = Counter(tuple(row) for row in grid)
 
-        for c in range(n):
-            col=tuple(grid[r][c] for r in range(n))
-            ans+=count1[col]
-        
-        return ans
+        output = 0
+
+        for c in range(cols):
+            temp = []
+
+            for r in range(rows):
+                temp.append(grid[r][c])
+
+            output += row_freq[tuple(temp)]
+
+        return output
