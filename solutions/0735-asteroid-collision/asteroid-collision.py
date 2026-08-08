@@ -1,6 +1,6 @@
 # Asteroid Collision (Medium)
 # https://leetcode.com/problems/asteroid-collision/
-# Accepted 2026-08-08 — Python3, runtime 9 ms, memory 20.3 MB
+# Accepted 2026-08-08 — Python3, runtime 3 ms, memory 20.4 MB
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
 
@@ -16,14 +16,12 @@ class Solution:
                 stack.append(num)
                 continue
             else:
-                while stack and num<0 and stack[-1]>0 and abs(num)>abs(stack[-1]):
+                while stack and stack[-1]>0 and -num>stack[-1]:
                     stack.pop()
-                if stack and num<0 and stack[-1]>0 and abs(num)==abs(stack[-1]):
+                if stack and stack[-1]>0 and -num==stack[-1]:
                     stack.pop()
                     continue
-                if stack and num<0 and stack[-1]<0:
-                    stack.append(num)
-                if not stack:
+                if (stack and stack[-1]<0) or not stack:
                     stack.append(num)
 
         return stack
