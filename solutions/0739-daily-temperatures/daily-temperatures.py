@@ -1,18 +1,26 @@
 # Daily Temperatures (Medium)
 # https://leetcode.com/problems/daily-temperatures/
-# Accepted 2026-06-17 — Python3, runtime 93 ms, memory 35.3 MB
+# Accepted 2026-08-12 — Python3, runtime 102 ms, memory 35.8 MB
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        '''
-        optimised n squared solution by just skipping over steps
 
         '''
-        answers=[0]*len(temperatures)
+        HOW DO WE USE A STACK!!!
+
+        stack.append every
+
+        now while our num is greater than top stack
+        r-l
+        '''
         stack=[]
-        for i, temp in enumerate(temperatures):
-            while stack and temp>stack[-1][1]:
-                ansI, ansTemp=stack.pop()
-                answers[ansI]=i-ansI
-            stack.append((i,temp))
-                
-        return answers
+        res=[0]*len(temperatures)
+        for i in range(len(temperatures)):
+
+            
+            while stack and temperatures[i]>stack[-1][0]:
+                num, pos=stack.pop()
+                res[pos]=(i-pos)
+            
+            stack.append((temperatures[i], i))
+    
+        return res
