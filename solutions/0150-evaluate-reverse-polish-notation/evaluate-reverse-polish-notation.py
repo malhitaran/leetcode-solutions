@@ -1,6 +1,6 @@
 # Evaluate Reverse Polish Notation (Medium)
 # https://leetcode.com/problems/evaluate-reverse-polish-notation/
-# Accepted 2026-08-12 — Python3, runtime 1 ms, memory 21 MB
+# Accepted 2026-08-12 — Python3, runtime 3 ms, memory 20.7 MB
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         '''
@@ -17,20 +17,13 @@ class Solution:
         stack=[]
 
         for token in tokens:
-
-            
             if token.lstrip('-').isdigit():
                 stack.append(int(token))
             else:
-               
                 x=stack.pop()
                 y=stack.pop()
-                
                 if token=="/":
-                    if y/x<0:
-                        stack.append(int(ceil(y/x)))
-                    else:
-                        stack.append(int(floor(y/x)))
+                    stack.append(int(y/x))
                 if token=="*":
                     stack.append(int(floor(y*x)))
                 if token=="-":
