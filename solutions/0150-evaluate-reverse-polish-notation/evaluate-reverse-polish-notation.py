@@ -1,53 +1,42 @@
 # Evaluate Reverse Polish Notation (Medium)
 # https://leetcode.com/problems/evaluate-reverse-polish-notation/
-# Accepted 2026-06-17 — Python3, runtime 4 ms, memory 20.8 MB
+# Accepted 2026-08-12 — Python3, runtime 1 ms, memory 21 MB
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
+        '''
+        my general idea
+
+        we push until a operator
+        when there is a operator we pop 2 elements off
+        we do the calculation
+        push back on
+        continue
 
         '''
-        ["10","6","9","3","+","-11","*","/","*","17","+","5","+"]
-
-        we have the list of numbers
-        we push them one by one onto the stack, each elemtns get put on once and popped once
-
-        '''
-        if len(tokens)==1:
-            return int(tokens[0])
         
         stack=[]
-        for operand in tokens:
 
-            if operand=="+":
-                y=stack.pop()
-                x=stack.pop()
-                stack.append(int(x)+int(y))
-                
-            elif operand=="-":
-                y=stack.pop()
-                x=stack.pop()
-                stack.append(int(x)-int(y))
-            elif operand=="*":
-                y=stack.pop()
-                x=stack.pop()
-                stack.append(int(x)*int(y))
-            elif operand=="/":
-                y=stack.pop()
-                x=stack.pop()
-                z=float(int(x)/int(y))
-                if z<0:
-                    z=int(ceil(z))
-                else:
-                    z=int(floor(z))
-                stack.append(z)
-                print(stack)
+        for token in tokens:
+
+            
+            if token.lstrip('-').isdigit():
+                stack.append(int(token))
             else:
-                stack.append(operand)
+               
+                x=stack.pop()
+                y=stack.pop()
+                
+                if token=="/":
+                    if y/x<0:
+                        stack.append(int(ceil(y/x)))
+                    else:
+                        stack.append(int(floor(y/x)))
+                if token=="*":
+                    stack.append(int(floor(y*x)))
+                if token=="-":
+                    stack.append(int(floor(y-x)))
+                if token=="+":
+                    stack.append(int(floor(y+x)))
+                   
 
         return stack[0]
-
-'''
-
--132
-6
-10
-'''
