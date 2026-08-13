@@ -1,6 +1,6 @@
 # Longest Repeating Character Replacement (Medium)
 # https://leetcode.com/problems/longest-repeating-character-replacement/
-# Accepted 2026-08-13 — Python3, runtime 276 ms, memory 29.2 MB
+# Accepted 2026-08-13 — Python3, runtime 151 ms, memory 19.5 MB
 from collections import defaultdict
 import heapq
 class Solution:
@@ -14,27 +14,16 @@ class Solution:
         '''
         
         ourDict=defaultdict(int)
-        curS=0
-        l=0
-        heap=[]
-        best=0
+        curS,l, best=0,0,0
+       
         for r in range(len(s)):
-            curS+=1
-            ourDict[s[r]]+=1
-            heapq.heappush(heap, (-ourDict[s[r]], s[r]))
-
             
-            while -heap[0][0] != ourDict[heap[0][1]]:
-                heapq.heappop(heap)
-
-            while curS-(-heap[0][0])>k:
+            ourDict[s[r]]+=1
+            
+            while (r-l+1)-max(ourDict.values())>k:
                 ourDict[s[l]]-=1
                 curS-=1
                 l+=1
-                
-                while -heap[0][0] != ourDict[heap[0][1]]:
-                    heapq.heappop(heap)
 
-            
             best=max(best, r-l+1)
         return best
