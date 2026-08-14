@@ -1,6 +1,6 @@
 # Koko Eating Bananas (Medium)
 # https://leetcode.com/problems/koko-eating-bananas/
-# Accepted 2026-08-14 — Python3, runtime 157 ms, memory 20.7 MB
+# Accepted 2026-08-14 — Python3, runtime 155 ms, memory 20.6 MB
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         
@@ -40,22 +40,17 @@ class Solution:
 
         '''
 
-        start,end,best=1, max(piles),0
-        i=0
+        start,end=1, max(piles)
+        best=end
         while start<=end:
             mid=(end+start)//2
             temp=0
-            
             for pile in piles:
                 temp+=ceil((pile )/(mid))
-
-            if temp<=h and temp>=best:
-                best=temp
-                i=mid
-
-            if temp>h:
-                start=mid+1
-            else:
+            if temp<=h:
+                best=min(best, mid)
                 end=mid-1
-           
-        return i
+            else:
+                start=mid+1
+            
+        return best
