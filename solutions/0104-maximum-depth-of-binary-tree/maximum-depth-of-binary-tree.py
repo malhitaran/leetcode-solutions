@@ -1,6 +1,6 @@
 # Maximum Depth of Binary Tree (Easy)
 # https://leetcode.com/problems/maximum-depth-of-binary-tree/
-# Accepted 2026-06-30 — Python3, runtime 0 ms, memory 20.3 MB
+# Accepted 2026-08-15 — Python3, runtime 2 ms, memory 22.5 MB
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -9,14 +9,19 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        '''
-        DFS where we keep track of the count, 
+        best=0
+        
+        def DFS(count, node):
+            nonlocal best
+            if node is None:
+                return 0
+            if count>best:
+                best=count
 
-        breadth first search
+            DFS(count+1, node.left)
+            DFS(count+1, node.right)
 
+            return best
+        
 
-        '''
-        if not root:
-            return 0
-
-        return 1+max(self.maxDepth(root.left), self.maxDepth(root.right))
+        return DFS(1, root)
