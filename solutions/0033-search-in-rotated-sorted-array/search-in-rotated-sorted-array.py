@@ -1,6 +1,6 @@
 # Search in Rotated Sorted Array (Medium)
 # https://leetcode.com/problems/search-in-rotated-sorted-array/
-# Accepted 2026-07-04 — Python3, runtime 0 ms, memory 19.4 MB
+# Accepted 2026-08-15 — Python3, runtime 0 ms, memory 19.2 MB
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
 
@@ -14,30 +14,24 @@ class Solution:
         '''
         
 
-        l,r=0, len(nums)-1
+        start,end=0, len(nums)-1
 
-        while l<=r:
-
-            mid=(l+r)//2
-
+        while start<=end:
+            mid=(start+end)//2
             if target==nums[mid]:
                 return mid
 
-            #if were in the left
-            if nums[mid]>=nums[l]:
-
-                if target>nums[mid] or target<nums[l]:
-                    l=mid+1
+            
+            #if right is sorted
+            if nums[mid]<nums[end]:
+                if target<=nums[end] and target>=nums[mid]:
+                    start=mid+1
                 else:
-                    r=mid-1
-
-
-
-
-            #if were in the right
+                    end=mid-1
             else:
-                if target<nums[mid] or target>nums[r]:
-                    r=mid-1
+                if target<=nums[mid] and target>=nums[start]:
+                    end=mid-1
                 else:
-                    l=mid+1
+                    start=mid+1
+
         return -1
