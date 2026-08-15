@@ -1,6 +1,6 @@
 # Remove Nth Node From End of List (Medium)
 # https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-# Accepted 2026-06-28 — Python3, runtime 0 ms, memory 19.3 MB
+# Accepted 2026-08-15 — Python3, runtime 0 ms, memory 19.1 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -8,20 +8,27 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        '''
+        we have a fast and a slow, we move the fast n times
+        then begin to move the slow
+        then set slow equal to the fast
 
-            dummy=ListNode()
-            dummy.next=head
+        '''
+        dummy=ListNode()
+        tail=dummy
+        dummy.next=head
+        
+        fast=head
+        slow=dummy
+        
+        for i in range(n):
+            fast=fast.next
+        
+        while fast:
+            fast=fast.next
+            slow=slow.next
+           
 
-            fast=dummy
-            slow=dummy
+        slow.next=slow.next.next
 
-            for _ in range(n+1):
-                fast=fast.next
-
-            while fast:
-                slow=slow.next
-                fast=fast.next
-
-            slow.next=slow.next.next
-
-            return dummy.next
+        return dummy.next
