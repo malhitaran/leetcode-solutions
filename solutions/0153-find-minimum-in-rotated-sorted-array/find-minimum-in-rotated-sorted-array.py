@@ -1,22 +1,24 @@
 # Find Minimum in Rotated Sorted Array (Medium)
 # https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-# Accepted 2026-06-27 — Python3, runtime 0 ms, memory 19.3 MB
+# Accepted 2026-08-15 — Python3, runtime 0 ms, memory 19.4 MB
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        '''
-        we can find out if its flipped or not
 
         '''
-        
-        lo=0
-        hi=len(nums)-1
-        best = float('inf')
-        while lo<=hi:
-            mid=((hi-lo)//2)+lo
-            if nums[mid]>nums[hi]:
-                
-                lo=mid+1
+        we can see what side is sorted, from that we know the minimum is the l
+        then we go to the unsorted side
+        '''
+
+        l,r,best=0,len(nums)-1,float('infinity')
+        while l<=r:
+            mid=(l+r)//2
+            best=min(best,nums[mid])
+            print(l, mid, r)
+            if nums[mid]>=nums[l]:
+                best=min(best,nums[l])
+                l=mid+1
             else:
-                best = min(best, nums[mid])
-                hi=mid-1
+                best=min(best,nums[mid])
+                r=mid-1
+            
         return best
