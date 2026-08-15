@@ -1,6 +1,6 @@
 # Reorder List (Medium)
 # https://leetcode.com/problems/reorder-list/
-# Accepted 2026-06-28 — Python3, runtime 9 ms, memory 27.8 MB
+# Accepted 2026-08-15 — Python3, runtime 3 ms, memory 27.7 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -12,45 +12,48 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
 
-
         '''
-        reverse the first list n
-        then we move up by one for each list and modify it in turn and save the next node
+        we can reverse the list and take the half integer division
 
-        we only need half of each list
 
         Input: head = [1,2,3,4]
 
-        1, 2
-        4, 3
+                        4321
 
-        1
+        12
+        43
+
+
+        [1,2,3,4,5]
+        5 4 3 2 1
+
+        123
+        54
+
         '''
+        
+        slow,fast=head,head.next
 
-        fast=head
-        slow=head
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
+        
+        #reverse now
         second=slow.next
-        slow.next=None
-
-        prev=None
-        curr=second
-        count=0
-        while curr:
-            temp=curr.next
-            curr.next=prev
-            prev=curr
-            curr=temp
-            count+=1
+        prev=slow.next=None
+        while second:
+            tmp=second.next
+            second.next=prev
+            prev=second
+            second=tmp
         
+        #merge
+        second=prev
+        first=head
+        while second:
+            tmp1, tmp2=first.next, second.next
+            first.next=second
+            second.next=tmp1
+            first,second=tmp1, tmp2
         
-
-        while prev:
-            tmp1, tmp2=head.next, prev.next
-            head.next=prev
-            prev.next=tmp1
-            head=tmp1
-            prev=tmp2
         return head
