@@ -1,6 +1,6 @@
 # Merge Two Sorted Lists (Easy)
 # https://leetcode.com/problems/merge-two-sorted-lists/
-# Accepted 2026-06-28 — Python3, runtime 0 ms, memory 19.2 MB
+# Accepted 2026-08-15 — Python3, runtime 4 ms, memory 19.3 MB
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -9,29 +9,18 @@
 class Solution:
     def mergeTwoLists(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
 
-        '''
-        list1 = [1,2,2], 
-        list2 = [1,3,5,5,6]
-
-        '''
+        l3=ListNode(None)
+        cur3=l3
         
-        dummy=ListNode()
-        pointer=dummy
 
         while l1 and l2:
-
             if l1.val<l2.val:
-                pointer.next=l1
+                cur3.next=ListNode(val=l1.val, next=None)
                 l1=l1.next
             else:
-                pointer.next=l2
+                cur3.next=ListNode(val=l2.val, next=None)
                 l2=l2.next
-            
-            pointer=pointer.next
+            cur3 = cur3.next
+        cur3.next = l1 if l1 else l2
 
-        if l1:
-            pointer.next=l1
-        else:
-            pointer.next=l2
-
-        return dummy.next
+        return l3.next
