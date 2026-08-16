@@ -118,9 +118,9 @@
  },
  "count-good-nodes-in-binary-tree": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 1448,
-  "path": "solutions/1448-count-good-nodes-in-binary-tree/count-good-nodes-in-binary-tree.py",
+  "path": "solutions/1448-count-good-nodes-in-binary-tree/README.md",
   "slug": "count-good-nodes-in-binary-tree",
   "solvedOn": "2026-03-16",
   "title": "Count Good Nodes in Binary Tree"
