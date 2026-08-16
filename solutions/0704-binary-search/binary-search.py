@@ -1,19 +1,17 @@
 # Binary Search (Easy)
 # https://leetcode.com/problems/binary-search/
-# Accepted 2026-06-27 — Python3, runtime 0 ms, memory 20.5 MB
+# Accepted 2026-08-16 — Python3, runtime 0 ms, memory 20.5 MB
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         
-        start=0
-        end=len(nums)-1
-                
-        while start<=end:
-            midpoint=((end-start)//2)+start
-            if nums[midpoint]==target:
-                return midpoint
-            elif nums[midpoint]>target:
-                end=midpoint-1
-            else:
-                start=midpoint+1
 
+        l, r = 0, len(nums)-1
+        while l<=r:
+            mid=(l+r)//2
+            if nums[mid]==target:
+                return mid
+            if nums[mid]>target:
+                r=mid-1
+            else:
+                l=mid+1
         return -1
