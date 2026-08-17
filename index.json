@@ -316,9 +316,9 @@
  },
  "k-closest-points-to-origin": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 973,
-  "path": "solutions/0973-k-closest-points-to-origin/k-closest-points-to-origin.py",
+  "path": "solutions/0973-k-closest-points-to-origin/README.md",
   "slug": "k-closest-points-to-origin",
   "solvedOn": "2026-06-12",
   "title": "K Closest Points to Origin"
