@@ -595,9 +595,9 @@
  },
  "number-of-islands": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 200,
-  "path": "solutions/0200-number-of-islands/README.md",
+  "path": "solutions/0200-number-of-islands/number-of-islands.py",
   "slug": "number-of-islands",
   "solvedOn": "2026-07-04",
   "title": "Number of Islands"
