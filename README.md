@@ -40,7 +40,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Python3 | 2026-06-28 |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Python3 | 2026-06-28 |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Python3 | 2026-06-17 |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python3 | 2025-10-25 |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  | 2025-10-25 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Python3 | 2026-06-20 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python3 | 2026-08-04 |

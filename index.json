@@ -694,9 +694,9 @@
  },
  "reverse-words-in-a-string": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 151,
-  "path": "solutions/0151-reverse-words-in-a-string/reverse-words-in-a-string.py",
+  "path": "solutions/0151-reverse-words-in-a-string/README.md",
   "slug": "reverse-words-in-a-string",
   "solvedOn": "2025-10-25",
   "title": "Reverse Words in a String"
