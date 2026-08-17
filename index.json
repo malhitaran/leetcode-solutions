@@ -37,9 +37,9 @@
  },
  "best-time-to-buy-and-sell-stock-ii": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 122,
-  "path": "solutions/0122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py",
+  "path": "solutions/0122-best-time-to-buy-and-sell-stock-ii/README.md",
   "slug": "best-time-to-buy-and-sell-stock-ii",
   "solvedOn": "2026-08-05",
   "title": "Best Time to Buy and Sell Stock II"
