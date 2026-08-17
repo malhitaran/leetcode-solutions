@@ -45,7 +45,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Python3 | 2026-06-20 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python3 | 2026-08-04 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | Python3 | 2026-06-11 |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python3 | 2026-07-04 |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium |  | 2026-07-04 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Python3 | 2026-07-05 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Python3 | 2026-07-04 |
