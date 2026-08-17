@@ -487,9 +487,9 @@
  },
  "majority-element-ii": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 229,
-  "path": "solutions/0229-majority-element-ii/majority-element-ii.py",
+  "path": "solutions/0229-majority-element-ii/README.md",
   "slug": "majority-element-ii",
   "solvedOn": "2026-08-05",
   "title": "Majority Element II"
