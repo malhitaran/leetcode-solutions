@@ -19,9 +19,9 @@
  },
  "balanced-binary-tree": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 110,
-  "path": "solutions/0110-balanced-binary-tree/balanced-binary-tree.py",
+  "path": "solutions/0110-balanced-binary-tree/README.md",
   "slug": "balanced-binary-tree",
   "solvedOn": "2026-06-30",
   "title": "Balanced Binary Tree"

@@ -32,7 +32,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Python3 | 2026-07-04 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Python3 | 2026-07-02 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Python3 | 2026-03-11 |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Python3 | 2026-06-30 |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy |  | 2026-06-30 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Python3 | 2026-06-27 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium |  | 2026-08-05 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Python3 | 2026-06-20 |
