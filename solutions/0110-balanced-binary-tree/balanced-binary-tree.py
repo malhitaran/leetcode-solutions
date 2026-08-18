@@ -1,6 +1,6 @@
 # Balanced Binary Tree (Easy)
 # https://leetcode.com/problems/balanced-binary-tree/
-# Accepted 2026-06-30 — Python3, runtime 4 ms, memory 20.3 MB
+# Accepted 2026-08-18 — Python3, runtime 1 ms, memory 20.4 MB
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -9,21 +9,23 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-
-        ourBool=True
-        def DFS(node):
-            nonlocal ourBool
-
-            if node==None:
+        
+        '''
+        max of left and right never differs by more than 1?
+        '''
+        res=True
+        def dfs(node):
+            nonlocal res
+            if not node:
                 return 0
-            left=DFS(node.left)
-            right=DFS(node.right)
+            left=dfs(node.left)
+            right=dfs(node.right)
 
-            if abs(left-right)>1:
-                ourBool=False
+            if left-1>right or right-1>left:
+                res=False
+            
 
-
-            return 1+max(left, right)
-
-        DFS(root)
-        return ourBool
+            return 1+ max(left,right)
+        
+        dfs(root)
+        return res
