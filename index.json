@@ -172,9 +172,9 @@
  },
  "diameter-of-binary-tree": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 543,
-  "path": "solutions/0543-diameter-of-binary-tree/diameter-of-binary-tree.py",
+  "path": "solutions/0543-diameter-of-binary-tree/README.md",
   "slug": "diameter-of-binary-tree",
   "solvedOn": "2026-06-30",
   "title": "Diameter of Binary Tree"
