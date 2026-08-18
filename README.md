@@ -50,7 +50,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Python3 | 2026-07-05 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Python3 | 2026-07-04 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Python3 | 2026-06-30 |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | 2026-06-30 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium |  | 2026-08-05 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python3 | 2026-07-01 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Python3 | 2026-05-14 |

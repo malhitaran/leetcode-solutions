@@ -298,9 +298,9 @@
  },
  "invert-binary-tree": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 226,
-  "path": "solutions/0226-invert-binary-tree/invert-binary-tree.py",
+  "path": "solutions/0226-invert-binary-tree/README.md",
   "slug": "invert-binary-tree",
   "solvedOn": "2026-06-30",
   "title": "Invert Binary Tree"
