@@ -766,9 +766,9 @@
  },
  "same-tree": {
   "difficulty": "Easy",
-  "langName": "",
+  "langName": "Python3",
   "num": 100,
-  "path": "solutions/0100-same-tree/README.md",
+  "path": "solutions/0100-same-tree/same-tree.py",
   "slug": "same-tree",
   "solvedOn": "2026-06-30",
   "title": "Same Tree"

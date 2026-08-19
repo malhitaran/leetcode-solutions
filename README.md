@@ -31,7 +31,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | 2026-08-21 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Python3 | 2026-06-20 |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |  | 2026-07-02 |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |  | 2026-06-30 |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Python3 | 2026-06-30 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Python3 | 2026-07-04 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium |  | 2026-07-02 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Python3 | 2026-03-11 |
