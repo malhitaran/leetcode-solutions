@@ -64,9 +64,9 @@
  },
  "binary-tree-right-side-view": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 199,
-  "path": "solutions/0199-binary-tree-right-side-view/binary-tree-right-side-view.py",
+  "path": "solutions/0199-binary-tree-right-side-view/README.md",
   "slug": "binary-tree-right-side-view",
   "solvedOn": "2026-06-11",
   "title": "Binary Tree Right Side View"
