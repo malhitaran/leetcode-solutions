@@ -18,7 +18,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Python3 | 2026-06-28 |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Python3 | 2026-07-05 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Python3 | 2026-06-14 |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |  | 2026-06-14 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Python3 | 2026-06-18 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Python3 | 2026-07-08 |

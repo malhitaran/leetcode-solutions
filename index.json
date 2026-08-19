@@ -874,9 +874,9 @@
  },
  "valid-sudoku": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 36,
-  "path": "solutions/0036-valid-sudoku/valid-sudoku.py",
+  "path": "solutions/0036-valid-sudoku/README.md",
   "slug": "valid-sudoku",
   "solvedOn": "2026-06-14",
   "title": "Valid Sudoku"
