@@ -377,6 +377,15 @@
   "solvedOn": "2026-06-20",
   "title": "Largest Rectangle in Histogram"
  },
+ "last-stone-weight": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 1046,
+  "path": "solutions/1046-last-stone-weight/README.md",
+  "slug": "last-stone-weight",
+  "solvedOn": "2026-08-20",
+  "title": "Last Stone Weight"
+ },
  "leaf-similar-trees": {
   "difficulty": "Easy",
   "langName": "Python3",

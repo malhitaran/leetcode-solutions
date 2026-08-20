@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**101 solved** — 35 Easy, 63 Medium, 3 Hard
+**102 solved** — 36 Easy, 63 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -89,6 +89,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |  | 2026-06-12 |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Python3 | 2026-07-07 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Python3 | 2026-02-09 |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy |  | 2026-08-20 |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Python3 | 2025-09-09 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Python3 | 2026-03-07 |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Python3 | 2026-05-14 |
