@@ -98,6 +98,15 @@
   "solvedOn": "2026-08-04",
   "title": "Concatenation of Array"
  },
+ "construct-binary-tree-from-preorder-and-inorder-traversal": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 105,
+  "path": "solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+  "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+  "solvedOn": "2026-08-20",
+  "title": "Construct Binary Tree from Preorder and Inorder Traversal"
+ },
  "container-with-most-water": {
   "difficulty": "Medium",
   "langName": "Python3",
