@@ -27,7 +27,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Python3 | 2026-08-04 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Python3 | 2026-06-20 |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Python3 | 2026-07-02 |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |  | 2026-07-02 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |  | 2026-06-30 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Python3 | 2026-07-04 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium |  | 2026-07-02 |

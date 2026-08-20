@@ -883,9 +883,9 @@
  },
  "validate-binary-search-tree": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 98,
-  "path": "solutions/0098-validate-binary-search-tree/validate-binary-search-tree.py",
+  "path": "solutions/0098-validate-binary-search-tree/README.md",
   "slug": "validate-binary-search-tree",
   "solvedOn": "2026-07-02",
   "title": "Validate Binary Search Tree"
