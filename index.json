@@ -350,6 +350,15 @@
   "solvedOn": "2026-07-04",
   "title": "Kth Largest Element in an Array"
  },
+ "kth-smallest-element-in-a-bst": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 230,
+  "path": "solutions/0230-kth-smallest-element-in-a-bst/README.md",
+  "slug": "kth-smallest-element-in-a-bst",
+  "solvedOn": "2026-08-20",
+  "title": "Kth Smallest Element in a BST"
+ },
  "largest-rectangle-in-histogram": {
   "difficulty": "Hard",
   "langName": "Python3",
