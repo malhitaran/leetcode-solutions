@@ -56,7 +56,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | 2026-06-30 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium |  | 2026-08-05 |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |  | 2026-08-20 |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | Python3 | 2026-08-20 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium |  | 2026-07-01 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Python3 | 2026-05-14 |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Python3 | 2025-12-17 |

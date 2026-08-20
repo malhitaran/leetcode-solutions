@@ -379,9 +379,9 @@
  },
  "kth-smallest-element-in-a-bst": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 230,
-  "path": "solutions/0230-kth-smallest-element-in-a-bst/README.md",
+  "path": "solutions/0230-kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py",
   "slug": "kth-smallest-element-in-a-bst",
   "solvedOn": "2026-08-20",
   "title": "Kth Smallest Element in a BST"
