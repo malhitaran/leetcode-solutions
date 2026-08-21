@@ -316,9 +316,9 @@
  },
  "increasing-triplet-subsequence": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 334,
-  "path": "solutions/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py",
+  "path": "solutions/0334-increasing-triplet-subsequence/README.md",
   "slug": "increasing-triplet-subsequence",
   "solvedOn": "2025-12-18",
   "title": "Increasing Triplet Subsequence"
