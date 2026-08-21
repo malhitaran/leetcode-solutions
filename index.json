@@ -100,9 +100,9 @@
  },
  "combination-sum-ii": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 40,
-  "path": "solutions/0040-combination-sum-ii/README.md",
+  "path": "solutions/0040-combination-sum-ii/combination-sum-ii.py",
   "slug": "combination-sum-ii",
   "solvedOn": "2026-08-21",
   "title": "Combination Sum II"
