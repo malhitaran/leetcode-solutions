@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**103 solved** — 36 Easy, 64 Medium, 3 Hard
+**104 solved** — 36 Easy, 65 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -26,6 +26,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Python3 | 2026-06-27 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Python3 | 2026-08-04 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | 2026-08-21 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Python3 | 2026-06-20 |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |  | 2026-07-02 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |  | 2026-06-30 |

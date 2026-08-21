@@ -809,6 +809,15 @@
   "solvedOn": "2026-07-07",
   "title": "Subarray Sum Equals K"
  },
+ "subsets": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 78,
+  "path": "solutions/0078-subsets/README.md",
+  "slug": "subsets",
+  "solvedOn": "2026-08-21",
+  "title": "Subsets"
+ },
  "subtree-of-another-tree": {
   "difficulty": "Easy",
   "langName": "Python3",
