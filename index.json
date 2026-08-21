@@ -98,6 +98,15 @@
   "solvedOn": "2026-08-21",
   "title": "Combination Sum"
  },
+ "combination-sum-ii": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 40,
+  "path": "solutions/0040-combination-sum-ii/README.md",
+  "slug": "combination-sum-ii",
+  "solvedOn": "2026-08-21",
+  "title": "Combination Sum II"
+ },
  "concatenation-of-array": {
   "difficulty": "Easy",
   "langName": "Python3",
