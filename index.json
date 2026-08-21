@@ -89,6 +89,15 @@
   "solvedOn": "2026-06-19",
   "title": "Car Fleet"
  },
+ "combination-sum": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 39,
+  "path": "solutions/0039-combination-sum/README.md",
+  "slug": "combination-sum",
+  "solvedOn": "2026-08-21",
+  "title": "Combination Sum"
+ },
  "concatenation-of-array": {
   "difficulty": "Easy",
   "langName": "Python3",

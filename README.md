@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**104 solved** — 36 Easy, 65 Medium, 3 Hard
+**105 solved** — 36 Easy, 66 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -19,6 +19,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Python3 | 2026-07-05 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |  | 2026-06-14 |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |  | 2026-08-21 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Python3 | 2026-06-18 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Python3 | 2026-07-08 |
