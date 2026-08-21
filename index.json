@@ -521,6 +521,15 @@
   "solvedOn": "2026-08-05",
   "title": "Majority Element II"
  },
+ "max-area-of-island": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 695,
+  "path": "solutions/0695-max-area-of-island/README.md",
+  "slug": "max-area-of-island",
+  "solvedOn": "2026-08-21",
+  "title": "Max Area of Island"
+ },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
   "langName": "Python3",
