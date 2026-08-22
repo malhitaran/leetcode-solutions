@@ -94,7 +94,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Python3 | 2026-07-07 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | Python3 | 2026-02-09 |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy |  | 2026-08-20 |
-| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Python3 | 2025-09-09 |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy |  | 2025-09-09 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Python3 | 2026-03-07 |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Python3 | 2026-05-14 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Python3 | 2025-09-13 |

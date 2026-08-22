@@ -298,9 +298,9 @@
  },
  "greatest-common-divisor-of-strings": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 1071,
-  "path": "solutions/1071-greatest-common-divisor-of-strings/greatest-common-divisor-of-strings.py",
+  "path": "solutions/1071-greatest-common-divisor-of-strings/README.md",
   "slug": "greatest-common-divisor-of-strings",
   "solvedOn": "2025-09-09",
   "title": "Greatest Common Divisor of Strings"
