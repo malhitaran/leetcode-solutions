@@ -334,9 +334,9 @@
  },
  "is-subsequence": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 392,
-  "path": "solutions/0392-is-subsequence/is-subsequence.py",
+  "path": "solutions/0392-is-subsequence/README.md",
   "slug": "is-subsequence",
   "solvedOn": "2026-02-07",
   "title": "Is Subsequence"
