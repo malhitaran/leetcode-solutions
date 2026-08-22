@@ -685,9 +685,9 @@
  },
  "permutation-in-string": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 567,
-  "path": "solutions/0567-permutation-in-string/permutation-in-string.py",
+  "path": "solutions/0567-permutation-in-string/README.md",
   "slug": "permutation-in-string",
   "solvedOn": "2026-06-27",
   "title": "Permutation in String"
