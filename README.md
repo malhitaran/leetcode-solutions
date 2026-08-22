@@ -78,7 +78,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Python3 | 2026-07-01 |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Python3 | 2026-04-26 |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Python3 | 2026-07-11 |
-| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy |  | 2026-02-08 |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium |  | 2026-08-21 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Python3 | 2026-06-27 |
