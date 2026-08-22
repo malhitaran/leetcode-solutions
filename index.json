@@ -784,9 +784,9 @@
  },
  "search-in-rotated-sorted-array": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 33,
-  "path": "solutions/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py",
+  "path": "solutions/0033-search-in-rotated-sorted-array/README.md",
   "slug": "search-in-rotated-sorted-array",
   "solvedOn": "2026-06-27",
   "title": "Search in Rotated Sorted Array"
