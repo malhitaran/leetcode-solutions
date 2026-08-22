@@ -69,7 +69,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Python3 | 2026-06-13 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |  | 2026-02-07 |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
-| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Python3 | 2026-06-27 |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |  | 2026-06-27 |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Python3 | 2026-05-14 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium |  | 2026-02-05 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |  | 2026-06-30 |

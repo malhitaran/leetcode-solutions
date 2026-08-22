@@ -469,9 +469,9 @@
  },
  "longest-repeating-character-replacement": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 424,
-  "path": "solutions/0424-longest-repeating-character-replacement/longest-repeating-character-replacement.py",
+  "path": "solutions/0424-longest-repeating-character-replacement/README.md",
   "slug": "longest-repeating-character-replacement",
   "solvedOn": "2026-06-27",
   "title": "Longest Repeating Character Replacement"
