@@ -703,9 +703,9 @@
  },
  "remove-nth-node-from-end-of-list": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 19,
-  "path": "solutions/0019-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py",
+  "path": "solutions/0019-remove-nth-node-from-end-of-list/README.md",
   "slug": "remove-nth-node-from-end-of-list",
   "solvedOn": "2026-06-14",
   "title": "Remove Nth Node From End of List"

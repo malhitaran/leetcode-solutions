@@ -13,7 +13,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |  | 2026-08-04 |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python3 | 2026-07-05 |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Python3 | 2026-06-14 |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  | 2026-06-14 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python3 | 2026-06-15 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Python3 | 2026-06-28 |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Python3 | 2026-07-05 |
