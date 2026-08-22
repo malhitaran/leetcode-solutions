@@ -26,7 +26,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Python3 | 2026-07-08 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Python3 | 2026-07-04 |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Python3 | 2026-06-27 |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Python3 | 2026-08-04 |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |  | 2026-08-04 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Python3 | 2026-06-12 |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | 2026-08-21 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Python3 | 2026-06-20 |

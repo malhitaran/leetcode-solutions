@@ -793,9 +793,9 @@
  },
  "sort-colors": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 75,
-  "path": "solutions/0075-sort-colors/sort-colors.py",
+  "path": "solutions/0075-sort-colors/README.md",
   "slug": "sort-colors",
   "solvedOn": "2026-08-04",
   "title": "Sort Colors"
