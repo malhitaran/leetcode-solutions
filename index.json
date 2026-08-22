@@ -721,9 +721,9 @@
  },
  "reorder-list": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 143,
-  "path": "solutions/0143-reorder-list/reorder-list.py",
+  "path": "solutions/0143-reorder-list/README.md",
   "slug": "reorder-list",
   "solvedOn": "2026-06-28",
   "title": "Reorder List"

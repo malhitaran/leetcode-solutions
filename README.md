@@ -42,7 +42,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Python3 | 2026-06-20 |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python3 | 2026-06-15 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Python3 | 2026-06-28 |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Python3 | 2026-06-28 |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |  | 2026-06-28 |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Python3 | 2026-06-17 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  | 2025-10-25 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
