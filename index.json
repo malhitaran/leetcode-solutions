@@ -568,9 +568,9 @@
  },
  "maximum-average-subarray-i": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 643,
-  "path": "solutions/0643-maximum-average-subarray-i/maximum-average-subarray-i.py",
+  "path": "solutions/0643-maximum-average-subarray-i/README.md",
   "slug": "maximum-average-subarray-i",
   "solvedOn": "2026-02-08",
   "title": "Maximum Average Subarray I"
