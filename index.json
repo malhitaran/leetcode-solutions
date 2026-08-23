@@ -235,9 +235,9 @@
  },
  "evaluate-reverse-polish-notation": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 150,
-  "path": "solutions/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py",
+  "path": "solutions/0150-evaluate-reverse-polish-notation/README.md",
   "slug": "evaluate-reverse-polish-notation",
   "solvedOn": "2026-06-17",
   "title": "Evaluate Reverse Polish Notation"
