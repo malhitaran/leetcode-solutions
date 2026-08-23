@@ -172,9 +172,9 @@
  },
  "daily-temperatures": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 739,
-  "path": "solutions/0739-daily-temperatures/daily-temperatures.py",
+  "path": "solutions/0739-daily-temperatures/README.md",
   "slug": "daily-temperatures",
   "solvedOn": "2026-06-17",
   "title": "Daily Temperatures"
