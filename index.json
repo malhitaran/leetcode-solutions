@@ -89,6 +89,15 @@
   "solvedOn": "2026-06-19",
   "title": "Car Fleet"
  },
+ "check-ascii-palindromic": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 4030,
+  "path": "solutions/4030-check-ascii-palindromic/README.md",
+  "slug": "check-ascii-palindromic",
+  "solvedOn": "2026-08-23",
+  "title": "Check ASCII Palindromic"
+ },
  "combination-sum": {
   "difficulty": "Medium",
   "langName": "",
