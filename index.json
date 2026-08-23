@@ -53,6 +53,15 @@
   "solvedOn": "2026-06-27",
   "title": "Binary Search"
  },
+ "binary-tree-inorder-traversal": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 94,
+  "path": "solutions/0094-binary-tree-inorder-traversal/README.md",
+  "slug": "binary-tree-inorder-traversal",
+  "solvedOn": "2026-08-23",
+  "title": "Binary Tree Inorder Traversal"
+ },
  "binary-tree-level-order-traversal": {
   "difficulty": "Medium",
   "langName": "",
