@@ -64,9 +64,9 @@
  },
  "binary-tree-inorder-traversal": {
   "difficulty": "Easy",
-  "langName": "",
+  "langName": "Python3",
   "num": 94,
-  "path": "solutions/0094-binary-tree-inorder-traversal/README.md",
+  "path": "solutions/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.py",
   "slug": "binary-tree-inorder-traversal",
   "solvedOn": "2026-08-23",
   "title": "Binary Tree Inorder Traversal"
