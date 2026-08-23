@@ -1,6 +1,6 @@
 # Count Good Nodes in Binary Tree (Medium)
 # https://leetcode.com/problems/count-good-nodes-in-binary-tree/
-# Accepted 2026-08-16 — Python3, runtime 126 ms, memory 31.8 MB
+# Accepted 2026-08-23 — Python3, runtime 135 ms, memory 32 MB
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -9,26 +9,15 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-
-        '''
-
-
-        '''
-        curr=0
-        def DFS(node,maxSeen):
-            nonlocal curr
-            if node is None:
+        res=0
+        def dfs(node, curr):
+            nonlocal res
+            if not node:
                 return
-            
-            if node.val>=maxSeen:
-                maxSeen=node.val
-                curr+=1
-                
-
-            DFS(node.left,maxSeen)
-            DFS(node.right,maxSeen)
-        
-        
-        DFS(root, root.val)
-
-        return curr
+            if node.val>=curr:
+                res+=1
+                curr=node.val
+            dfs(node.left,curr)
+            dfs(node.right,curr)
+        dfs(root, float('-inf'))
+        return res
