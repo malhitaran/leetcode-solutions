@@ -71,6 +71,15 @@
   "solvedOn": "2026-07-02",
   "title": "Binary Tree Level Order Traversal"
  },
+ "binary-tree-postorder-traversal": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 145,
+  "path": "solutions/0145-binary-tree-postorder-traversal/README.md",
+  "slug": "binary-tree-postorder-traversal",
+  "solvedOn": "2026-08-23",
+  "title": "Binary Tree Postorder Traversal"
+ },
  "binary-tree-preorder-traversal": {
   "difficulty": "Easy",
   "langName": "",
