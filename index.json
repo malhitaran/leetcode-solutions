@@ -26,6 +26,15 @@
   "solvedOn": "2026-06-30",
   "title": "Balanced Binary Tree"
  },
+ "baseball-game": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 682,
+  "path": "solutions/0682-baseball-game/README.md",
+  "slug": "baseball-game",
+  "solvedOn": "2026-08-24",
+  "title": "Baseball Game"
+ },
  "best-time-to-buy-and-sell-stock": {
   "difficulty": "Easy",
   "langName": "",
