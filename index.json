@@ -334,9 +334,9 @@
  },
  "generate-parentheses": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 22,
-  "path": "solutions/0022-generate-parentheses/generate-parentheses.py",
+  "path": "solutions/0022-generate-parentheses/README.md",
   "slug": "generate-parentheses",
   "solvedOn": "2026-07-05",
   "title": "Generate Parentheses"
