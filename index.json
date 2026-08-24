@@ -728,6 +728,15 @@
   "solvedOn": "2026-06-27",
   "title": "Permutation in String"
  },
+ "permutations": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 46,
+  "path": "solutions/0046-permutations/README.md",
+  "slug": "permutations",
+  "solvedOn": "2026-08-24",
+  "title": "Permutations"
+ },
  "product-of-array-except-self": {
   "difficulty": "Medium",
   "langName": "Python3",
