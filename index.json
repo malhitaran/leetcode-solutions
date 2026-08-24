@@ -739,9 +739,9 @@
  },
  "permutations": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 46,
-  "path": "solutions/0046-permutations/README.md",
+  "path": "solutions/0046-permutations/permutations.py",
   "slug": "permutations",
   "solvedOn": "2026-08-24",
   "title": "Permutations"

@@ -22,7 +22,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |  | 2026-08-21 |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Python3 | 2026-08-21 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Python3 | 2026-06-18 |
-| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |  | 2026-08-24 |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Python3 | 2026-08-24 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Python3 | 2026-06-13 |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Python3 | 2026-07-08 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Python3 | 2026-07-04 |
