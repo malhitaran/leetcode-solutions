@@ -1015,5 +1015,14 @@
   "slug": "validate-binary-search-tree",
   "solvedOn": "2026-07-02",
   "title": "Validate Binary Search Tree"
+ },
+ "word-search": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 79,
+  "path": "solutions/0079-word-search/README.md",
+  "slug": "word-search",
+  "solvedOn": "2026-08-24",
+  "title": "Word Search"
  }
 }
