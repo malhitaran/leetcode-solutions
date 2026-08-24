@@ -28,9 +28,9 @@
  },
  "baseball-game": {
   "difficulty": "Easy",
-  "langName": "",
+  "langName": "Python3",
   "num": 682,
-  "path": "solutions/0682-baseball-game/README.md",
+  "path": "solutions/0682-baseball-game/baseball-game.py",
   "slug": "baseball-game",
   "solvedOn": "2026-08-24",
   "title": "Baseball Game"
