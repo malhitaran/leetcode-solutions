@@ -881,6 +881,15 @@
   "solvedOn": "2026-08-21",
   "title": "Subsets"
  },
+ "subsets-ii": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 90,
+  "path": "solutions/0090-subsets-ii/README.md",
+  "slug": "subsets-ii",
+  "solvedOn": "2026-08-24",
+  "title": "Subsets II"
+ },
  "subtree-of-another-tree": {
   "difficulty": "Easy",
   "langName": "Python3",
