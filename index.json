@@ -892,9 +892,9 @@
  },
  "subsets-ii": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 90,
-  "path": "solutions/0090-subsets-ii/README.md",
+  "path": "solutions/0090-subsets-ii/subsets-ii.py",
   "slug": "subsets-ii",
   "solvedOn": "2026-08-24",
   "title": "Subsets II"

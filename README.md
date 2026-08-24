@@ -32,7 +32,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |  | 2026-08-21 |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium |  | 2026-08-24 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Python3 | 2026-06-20 |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium |  | 2026-08-24 |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | Python3 | 2026-08-24 |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Python3 | 2026-08-23 |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |  | 2026-07-02 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Python3 | 2026-06-30 |
