@@ -1,6 +1,6 @@
 # Permutations (Medium)
 # https://leetcode.com/problems/permutations/
-# Accepted 2026-08-24 — Python3, runtime 2 ms, memory 19.5 MB
+# Accepted 2026-08-27 — Python3, runtime 3 ms, memory 19.3 MB
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         '''
@@ -31,11 +31,12 @@ class Solution:
         def recurs(pathlist):
             if len(pathlist)==len(nums):
                 res.append(list(pathlist))
+                return
             for i in range(len(nums)):
                 if nums[i] not in pathlist:
                     pathlist.append(nums[i])
                     recurs(pathlist)
-                    pathlist.remove(nums[i])
+                    pathlist.pop()
 
         recurs([])
         return res
