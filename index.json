@@ -188,6 +188,15 @@
   "solvedOn": "2026-06-12",
   "title": "Contains Duplicate"
  },
+ "contains-duplicate-ii": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 219,
+  "path": "solutions/0219-contains-duplicate-ii/README.md",
+  "slug": "contains-duplicate-ii",
+  "solvedOn": "2026-08-28",
+  "title": "Contains Duplicate II"
+ },
  "count-good-nodes-in-binary-tree": {
   "difficulty": "Medium",
   "langName": "Python3",

@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**114 solved** — 41 Easy, 70 Medium, 3 Hard
+**115 solved** — 42 Easy, 70 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -60,6 +60,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Python3 | 2026-07-05 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Python3 | 2026-07-04 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy |  | 2026-08-28 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  | 2026-06-30 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium |  | 2026-08-05 |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | Python3 | 2026-08-20 |
