@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**115 solved** — 42 Easy, 70 Medium, 3 Hard
+**116 solved** — 42 Easy, 71 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -58,6 +58,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python3 | 2026-07-04 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Python3 | 2026-07-05 |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium |  | 2026-08-28 |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Python3 | 2026-07-04 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Python3 | 2026-06-12 |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy |  | 2026-08-28 |

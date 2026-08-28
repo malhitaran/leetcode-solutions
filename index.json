@@ -683,6 +683,15 @@
   "solvedOn": "2026-06-28",
   "title": "Merge Two Sorted Lists"
  },
+ "minimum-size-subarray-sum": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 209,
+  "path": "solutions/0209-minimum-size-subarray-sum/README.md",
+  "slug": "minimum-size-subarray-sum",
+  "solvedOn": "2026-08-28",
+  "title": "Minimum Size Subarray Sum"
+ },
  "minimum-window-substring": {
   "difficulty": "Hard",
   "langName": "Python3",
