@@ -620,6 +620,15 @@
   "solvedOn": "2026-02-07",
   "title": "Max Number of K-Sum Pairs"
  },
+ "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 3572,
+  "path": "solutions/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/README.md",
+  "slug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+  "solvedOn": "2026-08-29",
+  "title": "Maximize Y\u2011Sum by Picking a Triplet of Distinct X\u2011Values"
+ },
  "maximum-average-subarray-i": {
   "difficulty": "Easy",
   "langName": "Python3",
