@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**118 solved** — 43 Easy, 72 Medium, 3 Hard
+**119 solved** — 44 Easy, 72 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -89,6 +89,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Python3 | 2026-07-11 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Python3 | 2026-02-08 |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | Python3 | 2026-03-09 |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy |  | 2026-08-30 |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Python3 | 2026-08-24 |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium |  | 2026-08-21 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Python3 | 2026-06-27 |

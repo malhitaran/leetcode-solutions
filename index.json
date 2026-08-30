@@ -1025,6 +1025,15 @@
   "solvedOn": "2026-06-20",
   "title": "Valid Palindrome"
  },
+ "valid-palindrome-ii": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 680,
+  "path": "solutions/0680-valid-palindrome-ii/README.md",
+  "slug": "valid-palindrome-ii",
+  "solvedOn": "2026-08-30",
+  "title": "Valid Palindrome II"
+ },
  "valid-parentheses": {
   "difficulty": "Easy",
   "langName": "Python3",
