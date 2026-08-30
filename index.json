@@ -818,6 +818,15 @@
   "solvedOn": "2026-03-10",
   "title": "Reverse Linked List"
  },
+ "reverse-string": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 344,
+  "path": "solutions/0344-reverse-string/README.md",
+  "slug": "reverse-string",
+  "solvedOn": "2026-08-30",
+  "title": "Reverse String"
+ },
  "reverse-vowels-of-a-string": {
   "difficulty": "Easy",
   "langName": "Python3",

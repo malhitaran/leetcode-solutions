@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**117 solved** — 42 Easy, 72 Medium, 3 Hard
+**118 solved** — 43 Easy, 72 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -73,6 +73,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | Python3 | 2026-06-28 |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Python3 | 2026-03-10 |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium |  | 2025-12-18 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |  | 2026-08-30 |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Python3 | 2025-10-02 |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Python3 | 2026-06-13 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |  | 2026-02-07 |
