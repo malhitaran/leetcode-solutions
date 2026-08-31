@@ -847,9 +847,9 @@
  },
  "rotting-oranges": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 994,
-  "path": "solutions/0994-rotting-oranges/README.md",
+  "path": "solutions/0994-rotting-oranges/rotting-oranges.py",
   "slug": "rotting-oranges",
   "solvedOn": "2026-07-07",
   "title": "Rotting Oranges"
