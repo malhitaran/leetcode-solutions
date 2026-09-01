@@ -881,6 +881,15 @@
   "solvedOn": "2026-06-27",
   "title": "Search in Rotated Sorted Array"
  },
+ "search-insert-position": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 35,
+  "path": "solutions/0035-search-insert-position/README.md",
+  "slug": "search-insert-position",
+  "solvedOn": "2026-09-01",
+  "title": "Search Insert Position"
+ },
  "sort-colors": {
   "difficulty": "Medium",
   "langName": "",
