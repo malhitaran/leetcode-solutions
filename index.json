@@ -991,9 +991,9 @@
  },
  "two-sum": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 1,
-  "path": "solutions/0001-two-sum/two-sum.py",
+  "path": "solutions/0001-two-sum/README.md",
   "slug": "two-sum",
   "solvedOn": "2026-06-12",
   "title": "Two Sum"
