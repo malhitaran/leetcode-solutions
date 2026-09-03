@@ -361,9 +361,9 @@
  },
  "group-anagrams": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 49,
-  "path": "solutions/0049-group-anagrams/group-anagrams.py",
+  "path": "solutions/0049-group-anagrams/README.md",
   "slug": "group-anagrams",
   "solvedOn": "2026-06-13",
   "title": "Group Anagrams"
