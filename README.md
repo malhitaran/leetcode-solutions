@@ -98,7 +98,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | Python3 | 2026-07-04 |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Python3 | 2026-03-08 |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | 2026-06-17 |
-| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Python3 | 2026-06-19 |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |  | 2026-06-19 |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | Python3 | 2026-03-11 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Python3 | 2026-06-27 |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Python3 | 2026-03-09 |

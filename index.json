@@ -118,9 +118,9 @@
  },
  "car-fleet": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 853,
-  "path": "solutions/0853-car-fleet/car-fleet.py",
+  "path": "solutions/0853-car-fleet/README.md",
   "slug": "car-fleet",
   "solvedOn": "2026-06-19",
   "title": "Car Fleet"
