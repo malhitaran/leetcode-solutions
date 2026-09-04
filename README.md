@@ -53,7 +53,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  | 2026-06-17 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  | 2025-10-25 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
-| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Python3 | 2026-06-20 |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |  | 2026-06-20 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python3 | 2026-08-04 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium |  | 2026-06-11 |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python3 | 2026-07-04 |

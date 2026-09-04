@@ -1000,9 +1000,9 @@
  },
  "two-sum-ii-input-array-is-sorted": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 167,
-  "path": "solutions/0167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py",
+  "path": "solutions/0167-two-sum-ii-input-array-is-sorted/README.md",
   "slug": "two-sum-ii-input-array-is-sorted",
   "solvedOn": "2026-06-20",
   "title": "Two Sum II - Input Array Is Sorted"
