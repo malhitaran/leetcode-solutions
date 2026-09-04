@@ -415,9 +415,9 @@
  },
  "koko-eating-bananas": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 875,
-  "path": "solutions/0875-koko-eating-bananas/README.md",
+  "path": "solutions/0875-koko-eating-bananas/koko-eating-bananas.py",
   "slug": "koko-eating-bananas",
   "solvedOn": "2026-06-27",
   "title": "Koko Eating Bananas"
