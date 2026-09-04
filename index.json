@@ -685,9 +685,9 @@
  },
  "merge-two-sorted-lists": {
   "difficulty": "Easy",
-  "langName": "Python3",
+  "langName": "",
   "num": 21,
-  "path": "solutions/0021-merge-two-sorted-lists/merge-two-sorted-lists.py",
+  "path": "solutions/0021-merge-two-sorted-lists/README.md",
   "slug": "merge-two-sorted-lists",
   "solvedOn": "2026-06-28",
   "title": "Merge Two Sorted Lists"
