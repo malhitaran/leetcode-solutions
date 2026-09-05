@@ -7,7 +7,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |  | 2026-06-12 |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Python3 | 2026-06-28 |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |  | 2026-06-28 |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Python3 | 2026-06-27 |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Python3 | 2026-07-07 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python3 | 2026-02-07 |

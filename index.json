@@ -1,9 +1,9 @@
 {
  "add-two-numbers": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 2,
-  "path": "solutions/0002-add-two-numbers/add-two-numbers.py",
+  "path": "solutions/0002-add-two-numbers/README.md",
   "slug": "add-two-numbers",
   "solvedOn": "2026-06-28",
   "title": "Add Two Numbers"
