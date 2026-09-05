@@ -2,6 +2,6 @@
 
 https://leetcode.com/problems/merge-two-sorted-lists/
 
-Accepted 2026-09-04.
+Accepted 2026-09-05.
 
 <sub>Solved — solution code not mirrored for this one.</sub>
