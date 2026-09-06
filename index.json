@@ -971,6 +971,15 @@
   "solvedOn": "2026-07-04",
   "title": "Symmetric Tree"
  },
+ "target-sum": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 494,
+  "path": "solutions/0494-target-sum/README.md",
+  "slug": "target-sum",
+  "solvedOn": "2026-09-06",
+  "title": "Target Sum"
+ },
  "task-scheduler": {
   "difficulty": "Medium",
   "langName": "Python3",
