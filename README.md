@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**120 solved** — 45 Easy, 72 Medium, 3 Hard
+**121 solved** — 46 Easy, 72 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -17,6 +17,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python3 | 2026-06-15 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |  | 2026-06-28 |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |  | 2026-07-05 |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |  | 2026-09-06 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  | 2026-06-27 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy |  | 2026-09-01 |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |  | 2026-06-14 |

@@ -782,6 +782,15 @@
   "solvedOn": "2025-12-17",
   "title": "Product of Array Except Self"
  },
+ "remove-element": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 27,
+  "path": "solutions/0027-remove-element/README.md",
+  "slug": "remove-element",
+  "solvedOn": "2026-09-06",
+  "title": "Remove Element"
+ },
  "remove-nth-node-from-end-of-list": {
   "difficulty": "Medium",
   "langName": "",
