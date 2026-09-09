@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**123 solved** — 46 Easy, 74 Medium, 3 Hard
+**124 solved** — 46 Easy, 75 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -98,6 +98,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium |  | 2026-08-21 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Python3 | 2026-06-27 |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Python3 | 2026-03-06 |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium |  | 2026-09-09 |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | Python3 | 2026-07-04 |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Python3 | 2026-03-08 |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |  | 2026-06-17 |

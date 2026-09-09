@@ -728,6 +728,15 @@
   "solvedOn": "2026-02-06",
   "title": "Move Zeroes"
  },
+ "my-calendar-i": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 729,
+  "path": "solutions/0729-my-calendar-i/README.md",
+  "slug": "my-calendar-i",
+  "solvedOn": "2026-09-09",
+  "title": "My Calendar I"
+ },
  "number-of-islands": {
   "difficulty": "Medium",
   "langName": "Python3",
