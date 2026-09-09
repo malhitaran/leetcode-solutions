@@ -278,6 +278,15 @@
   "solvedOn": "2026-03-08",
   "title": "Equal Row and Column Pairs"
  },
+ "evaluate-division": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 399,
+  "path": "solutions/0399-evaluate-division/README.md",
+  "slug": "evaluate-division",
+  "solvedOn": "2026-09-09",
+  "title": "Evaluate Division"
+ },
  "evaluate-reverse-polish-notation": {
   "difficulty": "Medium",
   "langName": "",
