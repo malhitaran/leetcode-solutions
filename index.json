@@ -505,9 +505,9 @@
  },
  "longest-consecutive-sequence": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 128,
-  "path": "solutions/0128-longest-consecutive-sequence/longest-consecutive-sequence.py",
+  "path": "solutions/0128-longest-consecutive-sequence/README.md",
   "slug": "longest-consecutive-sequence",
   "solvedOn": "2026-06-15",
   "title": "Longest Consecutive Sequence"
