@@ -739,9 +739,9 @@
  },
  "my-calendar-i": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 729,
-  "path": "solutions/0729-my-calendar-i/README.md",
+  "path": "solutions/0729-my-calendar-i/my-calendar-i.py",
   "slug": "my-calendar-i",
   "solvedOn": "2026-09-09",
   "title": "My Calendar I"
