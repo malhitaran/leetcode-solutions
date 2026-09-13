@@ -584,6 +584,15 @@
   "solvedOn": "2026-05-14",
   "title": "Lowest Common Ancestor of a Binary Tree"
  },
+ "lru-cache": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 146,
+  "path": "solutions/0146-lru-cache/README.md",
+  "slug": "lru-cache",
+  "solvedOn": "2026-09-13",
+  "title": "LRU Cache"
+ },
  "majority-element": {
   "difficulty": "Easy",
   "langName": "Python3",

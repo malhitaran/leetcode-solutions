@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**124 solved** — 46 Easy, 75 Medium, 3 Hard
+**125 solved** — 46 Easy, 76 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -51,6 +51,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |  | 2026-06-28 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy |  | 2026-08-23 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy |  | 2026-08-23 |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |  | 2026-09-13 |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  | 2026-06-17 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  | 2025-10-25 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
