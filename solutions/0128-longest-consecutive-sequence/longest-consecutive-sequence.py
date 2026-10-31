@@ -1,19 +1,23 @@
 # Longest Consecutive Sequence (Medium)
 # https://leetcode.com/problems/longest-consecutive-sequence/
-# Accepted 2026-09-05 — Python3, runtime 59 ms, memory 36.6 MB
+# Accepted 2026-10-31 — Python3, runtime 83 ms, memory 36.6 MB
 class Solution:
-    def longestConsecutive(self, nums: List[int]) -> int:
+    def longestConsecutive(self, nums: list[int]) -> int:
+        
+        '''
+        if num -1 is in not in this set then that means this is a start of the seq
+
+        '''
+
         seen=set(nums)
-        best,i=0,0
-        while seen:
-            x=nums[i]
-            if x-1 in seen:
-                i+=1
-                continue
-            else:
+        res=0
+        for n in list(seen):
+            cnt=0
+            x=n
+            if x-1 not in seen:
                 while x in seen:
                     seen.remove(x)
+                    cnt+=1
                     x+=1
-                best=max(best, x-nums[i])
-                i+=1
-        return best
+            res=max(res, cnt)
+        return res
