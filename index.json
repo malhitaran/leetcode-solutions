@@ -134,6 +134,15 @@
   "solvedOn": "2026-08-23",
   "title": "Check ASCII Palindromic"
  },
+ "climbing-stairs": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 70,
+  "path": "solutions/0070-climbing-stairs/README.md",
+  "slug": "climbing-stairs",
+  "solvedOn": "2026-10-31",
+  "title": "Climbing Stairs"
+ },
  "combination-sum": {
   "difficulty": "Medium",
   "langName": "",
