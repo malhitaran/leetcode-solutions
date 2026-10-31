@@ -386,6 +386,15 @@
   "solvedOn": "2025-12-18",
   "title": "Increasing Triplet Subsequence"
  },
+ "insert-delete-getrandom-o1": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 380,
+  "path": "solutions/0380-insert-delete-getrandom-o1/README.md",
+  "slug": "insert-delete-getrandom-o1",
+  "solvedOn": "2026-10-31",
+  "title": "Insert Delete GetRandom O(1)"
+ },
  "invert-binary-tree": {
   "difficulty": "Easy",
   "langName": "",

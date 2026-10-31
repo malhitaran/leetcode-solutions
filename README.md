@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**125 solved** — 46 Easy, 76 Medium, 3 Hard
+**126 solved** — 46 Easy, 77 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -79,6 +79,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |  | 2026-08-30 |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Python3 | 2025-10-02 |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Python3 | 2026-06-13 |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium |  | 2026-10-31 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |  | 2026-02-07 |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium |  | 2026-09-09 |
