@@ -172,9 +172,9 @@
  },
  "container-with-most-water": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 11,
-  "path": "solutions/0011-container-with-most-water/container-with-most-water.py",
+  "path": "solutions/0011-container-with-most-water/README.md",
   "slug": "container-with-most-water",
   "solvedOn": "2026-02-07",
   "title": "Container With Most Water"
