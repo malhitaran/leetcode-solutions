@@ -622,9 +622,9 @@
  },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 1004,
-  "path": "solutions/1004-max-consecutive-ones-iii/max-consecutive-ones-iii.py",
+  "path": "solutions/1004-max-consecutive-ones-iii/README.md",
   "slug": "max-consecutive-ones-iii",
   "solvedOn": "2026-02-09",
   "title": "Max Consecutive Ones III"
