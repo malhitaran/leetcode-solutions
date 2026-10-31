@@ -415,9 +415,9 @@
  },
  "insert-delete-getrandom-o1": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 380,
-  "path": "solutions/0380-insert-delete-getrandom-o1/README.md",
+  "path": "solutions/0380-insert-delete-getrandom-o1/insert-delete-getrandom-o1.py",
   "slug": "insert-delete-getrandom-o1",
   "solvedOn": "2026-10-31",
   "title": "Insert Delete GetRandom O(1)"
