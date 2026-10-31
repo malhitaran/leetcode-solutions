@@ -712,9 +712,9 @@
  },
  "maximum-number-of-vowels-in-a-substring-of-given-length": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 1456,
-  "path": "solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md",
+  "path": "solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.py",
   "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
   "solvedOn": "2026-02-08",
   "title": "Maximum Number of Vowels in a Substring of Given Length"
