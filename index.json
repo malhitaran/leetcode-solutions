@@ -136,9 +136,9 @@
  },
  "climbing-stairs": {
   "difficulty": "Easy",
-  "langName": "",
+  "langName": "Python3",
   "num": 70,
-  "path": "solutions/0070-climbing-stairs/README.md",
+  "path": "solutions/0070-climbing-stairs/climbing-stairs.py",
   "slug": "climbing-stairs",
   "solvedOn": "2026-10-31",
   "title": "Climbing Stairs"
