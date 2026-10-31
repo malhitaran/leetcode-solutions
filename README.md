@@ -61,7 +61,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python3 | 2026-08-04 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium |  | 2026-11-01 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium |  | 2026-06-11 |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium |  | 2026-07-04 |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python3 | 2026-07-04 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Python3 | 2026-07-05 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium |  | 2026-08-28 |
