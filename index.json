@@ -550,9 +550,9 @@
  },
  "longest-substring-without-repeating-characters": {
   "difficulty": "Medium",
-  "langName": "Python3",
+  "langName": "",
   "num": 3,
-  "path": "solutions/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py",
+  "path": "solutions/0003-longest-substring-without-repeating-characters/README.md",
   "slug": "longest-substring-without-repeating-characters",
   "solvedOn": "2026-06-27",
   "title": "Longest Substring Without Repeating Characters"
