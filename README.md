@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**131 solved** — 48 Easy, 80 Medium, 3 Hard
+**132 solved** — 48 Easy, 81 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -49,6 +49,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium |  | 2026-08-05 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |  | 2026-06-20 |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Python3 | 2026-06-15 |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | Python3 | 2026-11-01 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Python3 | 2026-06-28 |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |  | 2026-06-28 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy |  | 2026-08-23 |

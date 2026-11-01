@@ -1169,6 +1169,15 @@
   "solvedOn": "2026-07-02",
   "title": "Validate Binary Search Tree"
  },
+ "word-break": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 139,
+  "path": "solutions/0139-word-break/word-break.py",
+  "slug": "word-break",
+  "solvedOn": "2026-11-01",
+  "title": "Word Break"
+ },
  "word-search": {
   "difficulty": "Medium",
   "langName": "",
