@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**133 solved** — 48 Easy, 82 Medium, 3 Hard
+**134 solved** — 48 Easy, 83 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -12,6 +12,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Python3 | 2026-07-07 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |  | 2026-02-07 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |  | 2026-08-04 |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Python3 | 2026-11-01 |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Python3 | 2026-07-05 |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  | 2026-06-14 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |  | 2026-06-15 |

@@ -1,4 +1,13 @@
 {
+ "3sum": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 15,
+  "path": "solutions/0015-3sum/3sum.py",
+  "slug": "3sum",
+  "solvedOn": "2026-11-01",
+  "title": "3Sum"
+ },
  "add-two-numbers": {
   "difficulty": "Medium",
   "langName": "",
