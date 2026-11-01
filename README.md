@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**128 solved** — 47 Easy, 78 Medium, 3 Hard
+**129 solved** — 47 Easy, 79 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -26,6 +26,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Python3 | 2026-06-18 |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Python3 | 2026-08-24 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |  | 2026-06-13 |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |  | 2026-11-01 |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Python3 | 2026-07-08 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Python3 | 2026-07-04 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |  | 2026-10-31 |

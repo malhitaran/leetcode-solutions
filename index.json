@@ -701,6 +701,15 @@
   "solvedOn": "2026-02-08",
   "title": "Maximum Number of Vowels in a Substring of Given Length"
  },
+ "maximum-subarray": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 53,
+  "path": "solutions/0053-maximum-subarray/README.md",
+  "slug": "maximum-subarray",
+  "solvedOn": "2026-11-01",
+  "title": "Maximum Subarray"
+ },
  "maximum-twin-sum-of-a-linked-list": {
   "difficulty": "Medium",
   "langName": "Python3",
