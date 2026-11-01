@@ -386,6 +386,15 @@
   "solvedOn": "2026-06-13",
   "title": "Group Anagrams"
  },
+ "house-robber": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 198,
+  "path": "solutions/0198-house-robber/README.md",
+  "slug": "house-robber",
+  "solvedOn": "2026-11-01",
+  "title": "House Robber"
+ },
  "increasing-triplet-subsequence": {
   "difficulty": "Medium",
   "langName": "",
