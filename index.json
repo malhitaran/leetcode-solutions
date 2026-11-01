@@ -721,9 +721,9 @@
  },
  "maximum-subarray": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 53,
-  "path": "solutions/0053-maximum-subarray/README.md",
+  "path": "solutions/0053-maximum-subarray/maximum-subarray.py",
   "slug": "maximum-subarray",
   "solvedOn": "2026-11-01",
   "title": "Maximum Subarray"
