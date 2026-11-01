@@ -59,7 +59,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Python3 | 2026-06-27 |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |  | 2026-06-20 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python3 | 2026-08-04 |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium |  | 2026-11-01 |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Python3 | 2026-11-01 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium |  | 2026-06-11 |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Python3 | 2026-07-04 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python3 | 2026-03-10 |

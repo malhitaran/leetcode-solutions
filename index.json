@@ -397,9 +397,9 @@
  },
  "house-robber": {
   "difficulty": "Medium",
-  "langName": "",
+  "langName": "Python3",
   "num": 198,
-  "path": "solutions/0198-house-robber/README.md",
+  "path": "solutions/0198-house-robber/house-robber.py",
   "slug": "house-robber",
   "solvedOn": "2026-11-01",
   "title": "House Robber"
