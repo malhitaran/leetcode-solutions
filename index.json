@@ -656,6 +656,15 @@
   "solvedOn": "2026-08-21",
   "title": "Max Area of Island"
  },
+ "max-consecutive-ones": {
+  "difficulty": "Easy",
+  "langName": "",
+  "num": 485,
+  "path": "solutions/0485-max-consecutive-ones/README.md",
+  "slug": "max-consecutive-ones",
+  "solvedOn": "2026-11-01",
+  "title": "Max Consecutive Ones"
+ },
  "max-consecutive-ones-iii": {
   "difficulty": "Medium",
   "langName": "",

@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**130 solved** — 47 Easy, 80 Medium, 3 Hard
+**131 solved** — 48 Easy, 80 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -90,6 +90,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |  | 2026-06-27 |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Python3 | 2026-05-14 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium |  | 2026-02-05 |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy |  | 2026-11-01 |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | Medium |  | 2026-09-06 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |  | 2026-06-30 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Python3 | 2026-07-07 |
