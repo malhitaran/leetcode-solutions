@@ -233,6 +233,15 @@
   "solvedOn": "2026-03-16",
   "title": "Count Good Nodes in Binary Tree"
  },
+ "count-primes": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 204,
+  "path": "solutions/0204-count-primes/count-primes.py",
+  "slug": "count-primes",
+  "solvedOn": "2026-11-01",
+  "title": "Count Primes"
+ },
  "course-schedule": {
   "difficulty": "Medium",
   "langName": "Python3",
