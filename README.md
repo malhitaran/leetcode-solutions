@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**132 solved** — 48 Easy, 81 Medium, 3 Hard
+**133 solved** — 48 Easy, 82 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -88,6 +88,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |  | 2026-02-07 |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Python3 | 2026-03-09 |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium |  | 2026-09-09 |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Python3 | 2026-11-01 |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |  | 2026-06-27 |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Python3 | 2026-05-14 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium |  | 2026-02-05 |

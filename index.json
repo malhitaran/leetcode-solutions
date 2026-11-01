@@ -827,6 +827,15 @@
   "solvedOn": "2026-03-10",
   "title": "Odd Even Linked List"
  },
+ "partition-equal-subset-sum": {
+  "difficulty": "Medium",
+  "langName": "Python3",
+  "num": 416,
+  "path": "solutions/0416-partition-equal-subset-sum/partition-equal-subset-sum.py",
+  "slug": "partition-equal-subset-sum",
+  "solvedOn": "2026-11-01",
+  "title": "Partition Equal Subset Sum"
+ },
  "path-sum-iii": {
   "difficulty": "Medium",
   "langName": "Python3",
