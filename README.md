@@ -2,7 +2,7 @@
 
 My accepted LeetCode solutions, committed automatically on the day each one was solved.
 
-**129 solved** — 47 Easy, 79 Medium, 3 Hard
+**130 solved** — 47 Easy, 80 Medium, 3 Hard
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -77,6 +77,7 @@ My accepted LeetCode solutions, committed automatically on the day each one was 
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Python3 | 2026-06-12 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Python3 | 2026-02-06 |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | Python3 | 2026-06-28 |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |  | 2026-11-01 |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Python3 | 2026-03-10 |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium |  | 2025-12-18 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |  | 2026-08-30 |

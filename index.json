@@ -143,6 +143,15 @@
   "solvedOn": "2026-10-31",
   "title": "Climbing Stairs"
  },
+ "coin-change": {
+  "difficulty": "Medium",
+  "langName": "",
+  "num": 322,
+  "path": "solutions/0322-coin-change/README.md",
+  "slug": "coin-change",
+  "solvedOn": "2026-11-01",
+  "title": "Coin Change"
+ },
  "combination-sum": {
   "difficulty": "Medium",
   "langName": "",
